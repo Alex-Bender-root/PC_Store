@@ -16,9 +16,11 @@ include('header.php');
 
 
       <div class="card_accessories_header">
-        <h5>Игровые мыши от известных брендов</h5>
-        <h6>Выбери свой инструмент для игр или работы</h6>
-        <div class="card_accessories_header_General_photo">
+        <div class="card_accessories_header_General_desc-a">
+          <h5>Игровые мыши от известных брендов</h5>
+          <h6>Выбери свой инструмент для игр или работы</h6>
+        </div>
+        <div class="card_accessories_header_General_photo-a">
           <img src="img/catalog_accessories/card_accessories/header_mouse.webp" alt="Разновидности мышек">
         </div>
 
@@ -486,11 +488,16 @@ include('header.php');
 
       </div>
 
-      
+
 
       <div class="card_accessories_header">
-        <h5>Игровые мыши от известных брендов</h5>
-        <h6>Выбери свой инструмент для игр или работы</h6>
+        <div class="card_accessories_header_General_desc-b">
+          <h5>Игровые мыши от известных брендов</h5>
+          <h6>Выбери свой инструмент для игр или работы</h6>
+        </div>
+        <div class="card_accessories_header_General_photo-b">
+          <img src="img/catalog_accessories/card_accessories/header_mouse.webp" alt=" клавиатуры">
+        </div>
 
         <div class="all_card_accessories">
 
