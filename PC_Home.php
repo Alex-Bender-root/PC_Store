@@ -412,86 +412,86 @@ include("header.php");
           <p>Каталог геймерской периферии</p>
         </div>
         <div class="catalog_accessories">
-          <a href="#">
-            <div class="mouse">
+          <div class="mouse">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="mouse_picture"><img src="img/catalog_accessories/mouse.webp" alt="mouse"></div>
               <p>Игровые мыши</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="keyboards">
+            </a>
+          </div>
+          <div class="keyboards">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="keyboards_picture"><img src="img/catalog_accessories/keyboards.webp" alt="keyboard"></div>
               <p>Клавиатуры</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="headphones">
+            </a>
+          </div>
+          <div class="headphones">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="headphones_picture"><img src="img/catalog_accessories/headphones.webp" alt="headphones"></div>
               <p>Наушники</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="rugs">
+            </a>
+          </div>
+          <div class="rugs">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="rugs_picture"><img src="img/catalog_accessories/rugs.webp" alt="rugs"></div>
               <p>Коврики</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="monitors">
+            </a>
+          </div>
+          <div class="monitors">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="monitors_picture"><img src="img/catalog_accessories/monitors.webp" alt="monitors"></div>
               <p>Мониторы</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="armchairs">
+            </a>
+          </div>
+          <div class="armchairs">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="armchairs_picture"><img src="img/catalog_accessories/armchairs.webp" alt="armchairs"></div>
               <p>Кресла</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="microphones">
+            </a>
+          </div>
+          <div class="microphones">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="microphones_picture"><img src="img/catalog_accessories/microphones.webp" alt="microphones"></div>
               <p>Микрофоны</p>
-            </div>
-          </a>
-          <a href="#">
-            <div class="camera">
+            </a>
+          </div>
+          <div class="camera">
+            <a href="#">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
               <div class="camera_picture"><img src="img/catalog_accessories/camera.webp" alt="camera"></div>
               <p>Камеры</p>
-            </div>
-          </a>
+            </a>
+          </div>
         </div>
       </div>
 

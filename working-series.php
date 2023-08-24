@@ -89,7 +89,7 @@ include('header.php');
       </div>
       <div class="product_general">
         <div class="product_general_desc" id="product_general_desc_green">
-          <h4>Рабочая станция серии Creative</h4>
+          <h4>Рабочие станции серии Creative</h4>
           <div class="markup_Card_Product">
             <div class="card_all">
               <div class="Card_Product">
@@ -351,7 +351,7 @@ include('header.php');
           </div>
         </div>
         <div class="product_general_desc" id="product_general_desc_violet">
-          <h4>Рабочая станция серии Workstations</h4>
+          <h4>Рабочие станции серии Workstations</h4>
           <div class="markup_Card_Product">
             <div class="card_all">
               <div class="Card_Product">
@@ -613,7 +613,7 @@ include('header.php');
           </div>
         </div>
         <div class="product_general_desc" id="product_general_desc_orange">
-          <h4>Рабочая станция серии Unbounded</h4>
+          <h4>Рабочие станции серии Unbounded</h4>
           <div class="markup_Card_Product">
             <div class="card_all">
               <div class="Card_Product">

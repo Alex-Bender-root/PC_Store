@@ -18,6 +18,10 @@ include('header.php');
       <div class="card_accessories_header">
         <h5>Игровые мыши от известных брендов</h5>
         <h6>Выбери свой инструмент для игр или работы</h6>
+        <div class="card_accessories_header_General_photo">
+          <img src="img/catalog_accessories/card_accessories/header_mouse.webp" alt="Разновидности мышек">
+        </div>
+
         <div class="all_card_accessories">
 
           <div class="card_accessories">
@@ -482,10 +486,12 @@ include('header.php');
 
       </div>
 
+      
 
       <div class="card_accessories_header">
         <h5>Игровые мыши от известных брендов</h5>
         <h6>Выбери свой инструмент для игр или работы</h6>
+
         <div class="all_card_accessories">
 
           <div class="card_accessories">
@@ -952,7 +958,7 @@ include('header.php');
 
 
 
-      
+
 
     </div>
   </div>

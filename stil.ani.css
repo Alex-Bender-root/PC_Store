@@ -3419,6 +3419,27 @@ p {
   padding-bottom: 4%;
 }
 
+.card_accessories_header_General_photo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5%;
+  padding-top: 3%;
+}
+
+.card_accessories_header_General_photo img {
+  width: 85%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px 19px rgba(73, 73, 73, 0.37);
+}
+
+
+
+
+
+
+
+
 .all_card_accessories {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -3697,6 +3718,11 @@ p {
 
   .con_fill {
     padding: 2% 0;
+  }
+
+  .card_accessories_header_General_photo {
+    padding-bottom: 7%;
+    padding-top: 8%;
   }
 }
 
