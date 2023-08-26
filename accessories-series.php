@@ -1758,17 +1758,17 @@ include('header.php');
 
 
 
-    <div class="mm-e"> <!-- клавиатуры -->
+    <div class="mm-e"> <!-- Мониторы -->
 
       <div class="card_accessories_header">
 
-        <div class="card_accessories_header_General_photo_b_zz">
-          <div class="card_accessories_header_General_photo-b" id="monitor_header_photo">
-            <!-- <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Монитор"> -->
+        <div class="card_accessories_header_General_photo_k_zz">
+          <div class="card_accessories_header_General_photo-k">
+            <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Монитор">
           </div>
         </div>
-        <div class="card_accessories_header_General_desc-b">
-          <h5>Игровые клавиатуры от известных брендов</h5>
+        <div class="card_accessories_header_General_desc-k">
+          <h5>Игровые мониторы от известных брендов</h5>
           <h6>Выбери свой инструмент для игр или работы</h6>
         </div>
 
