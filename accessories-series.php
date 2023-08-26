@@ -40,7 +40,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/cooler-master-mm710-matte-black.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/cooler-master-mm710-matte-black.webp">
             </a>
           </div>
 
@@ -55,12 +55,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -75,7 +75,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/corsair-katar-pro.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/corsair-katar-pro.webp">
             </a>
           </div>
 
@@ -90,12 +90,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -111,7 +111,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/HyperX-Pulsefire-Core-RGB.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/HyperX-Pulsefire-Core-RGB.webp">
             </a>
           </div>
 
@@ -126,12 +126,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -146,7 +146,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/hyperx-pulsefire-dart-2.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/hyperx-pulsefire-dart-2.webp">
             </a>
           </div>
 
@@ -161,12 +161,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -183,7 +183,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/corsair-m55-rgb-pro-white-2.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/corsair-m55-rgb-pro-white-2.webp">
             </a>
           </div>
 
@@ -198,12 +198,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -219,7 +219,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/hyperx-pulsefire-fps-pro.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/hyperx-pulsefire-fps-pro.webp">
             </a>
           </div>
 
@@ -234,12 +234,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -257,7 +257,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/HyperX-Pulsefire-Haste.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/HyperX-Pulsefire-Haste.webp">
             </a>
           </div>
 
@@ -272,12 +272,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -294,7 +294,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/logitech-g502-lightspeed.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/logitech-g502-lightspeed.webp">
             </a>
           </div>
 
@@ -309,12 +309,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -331,7 +331,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/razer-naga-trinity.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/razer-naga-trinity.webp">
             </a>
           </div>
 
@@ -346,12 +346,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -368,7 +368,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/TUF Gaming SMALL.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/TUF Gaming SMALL.webp">
             </a>
           </div>
 
@@ -383,12 +383,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -405,7 +405,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/razer-basilisk-x-hyperspeed-.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/razer-basilisk-x-hyperspeed-.webp">
             </a>
           </div>
 
@@ -420,12 +420,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -443,7 +443,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse/corsair-dark-core-rgb-pro-4.webp" alt="мышь">
+              <img src="img/catalog_accessories/card_accessories/mouse/corsair-dark-core-rgb-pro-4.webp">
             </a>
           </div>
 
@@ -458,12 +458,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -542,12 +542,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -576,12 +576,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -610,12 +610,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -644,12 +644,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -678,12 +678,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -712,12 +712,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -746,12 +746,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -780,12 +780,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -868,12 +868,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -902,12 +902,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -936,12 +936,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -970,12 +970,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1004,12 +1004,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1038,12 +1038,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1072,12 +1072,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1106,12 +1106,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1141,12 +1141,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1175,12 +1175,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1209,12 +1209,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1243,12 +1243,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1277,12 +1277,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1311,12 +1311,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1345,12 +1345,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1379,12 +1379,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp" alt="мышь">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1431,6 +1431,654 @@ include('header.php');
     </div>
 
 
+
+
+    <div class="mm-e"> <!-- коврики -->
+
+      <div class="card_accessories_header">
+
+        <div class="card_accessories_header_General_photo_f_zz">
+          <div class="card_accessories_header_General_desc-f">
+            <h5>Игровые коврики для мышки от известных брендов</h5>
+            <h6>Выбери свой инструмент для игр или работы</h6>
+          </div>
+          <div class="card_accessories_header_General_photo-f">
+            <img src="img/catalog_accessories/card_accessories/header_rug.webp" alt="Коврики">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="all_card_accessories">
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Control (XL).webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши HyperX FURY S Control (XL)</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>2 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Speed (XL).webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши HyperX FURY S Speed (XL)</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>2 300 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Sheath.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши ASUS ROG Sheath</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>2 600 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Strix Edge.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши ASUS ROG Strix Edge</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>3 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/Cooler Master MP750 Large.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши Cooler Master MP750 Large</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>3 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/Corsair MM800 RGB Polaris.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши Corsair MM800 RGB Polaris</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>3 200 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS TUF Gaming P3.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши ASUS TUF Gaming P3</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>3 500 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/mouse_pads/Logitech Powerplay.webp" alt="коврик">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Коврик для мыши Logitech Powerplay</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>4 900 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+      </div>
+
+      <div class="How_to_choose">
+        <h5>Как выбрать игровой коврик</h5>
+        <h6>Основные советы по подбору</h6>
+        <div class="selectio_tips">
+          <div class="selectio_tips_content">
+            <h6>Назначение коврика</h6>
+            <p>Качественный коврик для компьютерной мыши нужен всем, кто активно пользуется компьютером, но особенно геймерам. Игрокам важно комфортно передвигать мышку, обеспечивать ее точное позиционирование. Хорошая основа позволит добиться точности прицела, получить заметное превосходство над виртуальным противником. Изделие необходимо всем, чья работа связана с точными движениями мыши: графическим дизайнерам, IT-специалистам</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Размеры</h6>
+            <p>Модели бывают разными: маленькими, средними, большими и очень большими. Выбирайте в соответствии со своим рабочим местом, габаритами компьютерной мышки, ее чувствительностью. Есть тонкие и толстые модели, на это тоже стоит обращать внимание. В целом выбор коврика зависит только от ваших предпочтений и комфорта</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Материал</h6>
+            <p>Изделия бывают пластиковыми и тканевыми. Первые отличаются хорошим скольжением, но худшим позиционированием мыши. Пластик более устойчив к износу, прост в уходе, легко очищается от пыли, загрязнений. Коврики из ткани не разрушают покрытие ножек, но пачкаются гораздо быстрее. Текстильные могут расплестись, требуют постоянной стирки. Рекомендуем выбирать коврики, которые хорошо прошиты по всему периметру</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Особенности</h6>
+            <p>Некоторые модели имеют встроенную подсветку, которая выглядит очень стильно. Есть модели со встроенной зарядкой для беспроводной мыши и других устройств, например, мобильных телефонов. Если вы выбираете дизайн коврика, рекомендуем брать минималистичные, потому что красивый принт все равно со временем сотрется. Некоторые мышки лучше взаимодействуют с темным покрытием, а не с разноцветным</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gray_line">
+      </div>
+
+    </div>
+
+
+
+
+    <div class="mm-e"> <!-- клавиатуры -->
+
+      <div class="card_accessories_header">
+
+        <div class="card_accessories_header_General_photo_b_zz">
+          <div class="card_accessories_header_General_photo-b" id="monitor_header_photo">
+            <!-- <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Монитор"> -->
+          </div>
+        </div>
+        <div class="card_accessories_header_General_desc-b">
+          <h5>Игровые клавиатуры от известных брендов</h5>
+          <h6>Выбери свой инструмент для игр или работы</h6>
+        </div>
+
+      </div>
+
+      <div class="all_card_accessories">
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/Razer_Ornata_V2.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура Razer Ornata V2</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>3 800 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/Logitech_G413_Carbon.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура Logitech G413 Carbon</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>4 300 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/HyperX_Alloy_Origins.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура HyperX Alloy Origins</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>4 600 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_TUF_Gaming_K5.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура ASUS TUF Gaming K5</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>5 500 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/Cooler_Master_CK550_V2_Red_Switch.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура Cooler Master CK550 V2 Red Switch</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>6 700 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/Dark_Project_KD3B_rev.2_White.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура Dark Project KD3B rev.2 White</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>8 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/Corsair_K83_Wireless_Entertainment_Keyboard.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура Corsair K83 Wireless Entertainment Keyboard</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>8 200 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_ROG_Strix_Scope_TKL_Deluxe.webp" alt="клавиатура">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Клавиатура ASUS ROG Strix Scope TKL Deluxe</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>8 900 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+      </div>
+
+      <div class="How_to_choose">
+        <h5>Как выбрать игровую клавиатуру</h5>
+        <h6>Основные советы по подбору</h6>
+        <div class="selectio_tips">
+          <div class="selectio_tips_content">
+            <h6>Назначение</h6>
+            <p>По назначению выделяют две крупные группы клавиатур: «рабочие» и игровые. У последних более яркий дизайн, дополнительные программируемые клавиши, обтекаемая форма со специальными подставками для кистей. Негеймерские клавиатуры обычно изготавливают без подсветки (или с однотонной) и дополнительных клавиш. У них более простой дизайн, не столь высокие требования к чувствительности и времени отклика</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Механическая или мембранная</h6>
+            <p>Конструктивно клавиатуры делят на механические и мембранные. Клавиши механических откликаются быстрее и громче – можно провести аналогию с кнопками на старых печатных машинках. Они подходят для игр. Мембранные отличаются более низким ходом, бесшумной работой и не столь быстрым откликом. Их основа — резиновая подложка-мембрана. Под ней расположены контакты переключателей. Такие модели подходят для дома/офиса</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Тип подключения</h6>
+            <p>Проводные и беспроводные клавиатуры. Последние дают большую свободу, однако есть риск, что при затяжной игровой сессии устройство исчерпает весь ресурс и потребует подзарядки в самый неподходящий момент. Кроме того, у беспроводных клавиатур скорость сигнала выше, чем у проводных. Для динамичных игр лучше брать модель с проводным подключением</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Дополнительные клавиши</h6>
+            <p>Если вы хотите быстро запустить любимое приложений, сменит эквалайзер, настроить громкость или произвести другие схожие действия, можно настроить под них специальные клавиши. Они есть не на всех клавиатурах, но на большинстве игровых моделей имеются. Для офисной работы функциональные клавиши тоже удобны. Например, можно запрограммировать повторяющиеся действия в редакторе, автозамены, вызов макросов</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gray_line">
+      </div>
+
+    </div>
 
 
 
