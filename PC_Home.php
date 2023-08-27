@@ -413,7 +413,7 @@ include("header.php");
         </div>
         <div class="catalog_accessories">
           <div class="mouse">
-            <a href="#">
+            <a href="accessories-series.php#mouse_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -423,7 +423,7 @@ include("header.php");
             </a>
           </div>
           <div class="keyboards">
-            <a href="#">
+            <a href="accessories-series.php#keyboards_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -433,7 +433,7 @@ include("header.php");
             </a>
           </div>
           <div class="headphones">
-            <a href="#">
+            <a href="accessories-series.php#headphones_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -443,7 +443,7 @@ include("header.php");
             </a>
           </div>
           <div class="rugs">
-            <a href="#">
+            <a href="accessories-series.php#header_rug_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -453,7 +453,7 @@ include("header.php");
             </a>
           </div>
           <div class="monitors">
-            <a href="#">
+            <a href="accessories-series.php#monitor_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -463,7 +463,7 @@ include("header.php");
             </a>
           </div>
           <div class="armchairs">
-            <a href="#">
+            <a href="accessories-series.php#armchairs_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -473,7 +473,7 @@ include("header.php");
             </a>
           </div>
           <div class="microphones">
-            <a href="#">
+            <a href="accessories-series.php#microphones_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
@@ -483,7 +483,7 @@ include("header.php");
             </a>
           </div>
           <div class="camera">
-            <a href="#">
+            <a href="accessories-series.php#webcams_pkm">
               <div class="arrow_1"></div>
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>

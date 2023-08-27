@@ -22,7 +22,7 @@ include('header.php');
 
     <div class="mm-e"> <!-- мыши -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="mouse_pkm">
         <div class="card_accessories_header_General_desc-full">
           <div class="card_accessories_header_General_desc-a">
             <h5>Игровые мыши от известных брендов</h5>
@@ -508,7 +508,7 @@ include('header.php');
 
     <div class="mm-e"> <!-- клавиатуры -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="keyboards_pkm">
 
         <div class="card_accessories_header_General_photo_b_zz">
           <div class="card_accessories_header_General_photo-b"></div>
@@ -831,15 +831,15 @@ include('header.php');
 
     <div class="mm-e"> <!-- наушники -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="headphones_pkm">
 
         <div class="card_accessories_header_General_photo_c_zz">
-          <div class="card_accessories_header_General_photo-c">
-            <img src="img/catalog_accessories/card_accessories/headphones.webp" alt="Наушники">
-          </div>
           <div class="card_accessories_header_General_desc-c">
             <h5>Игровые наушники от известных брендов</h5>
             <h6>Выбери свой инструмент для игр или работы</h6>
+          </div>
+          <div class="card_accessories_header_General_photo-c">
+            <img src="img/catalog_accessories/card_accessories/headphones.webp" alt="Наушники">
           </div>
         </div>
 
@@ -1433,7 +1433,7 @@ include('header.php');
 
     <div class="mm-e"> <!-- коврики -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="header_rug_pkm">
 
         <div class="card_accessories_header_General_photo_f_zz">
           <div class="card_accessories_header_General_desc-f">
@@ -1758,7 +1758,7 @@ include('header.php');
 
     <div class="mm-e"> <!-- Мониторы -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="monitor_pkm">
 
         <div class="card_accessories_header_General_photo_k_zz">
           <div class="card_accessories_header_General_photo-k">
@@ -2218,7 +2218,7 @@ include('header.php');
 
     <div class="mm-e"> <!-- кресла -->
 
-      <div class="card_accessories_header">
+      <div class="card_accessories_header" id="armchairs_pkm">
 
         <div class="card_accessories_header_General_photo_f_zz" id="armchairs_photo">
           <div class="card_accessories_header_General_photo-f">
@@ -2540,8 +2540,499 @@ include('header.php');
 
 
 
+
+    <div class="mm-e"> <!-- Микрофоны -->
+
+      <div class="card_accessories_header" id="microphones_pkm">
+
+        <div class="card_accessories_header_General_photo_k_zz">
+          <div class="card_accessories_header_General_photo-k">
+            <img src="img/catalog_accessories/card_accessories/microphones.webp" alt="Мониторы">
+          </div>
+        </div>
+        <div class="card_accessories_header_General_desc-k">
+          <h5>Игровые микрофоны от известных брендов</h5>
+          <h6>Выбери свой инструмент для игр или работы</h6>
+        </div>
+
+      </div>
+
+      <div class="all_card_accessories">
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/HyperX SoloCast.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон HyperX SoloCast</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>5 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/Razer Seiren X.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон Razer Seiren X</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>7 500 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон HyperX QuadCast</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>9 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/Razer Seiren Elite.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон Razer Seiren Elite</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>15 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast S.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон HyperX QuadCast S</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>19 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/microphones/ASUS ROG Strix Magnus.webp" alt="Микрофон">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Микрофон ASUS ROG Strix Magnus</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>22 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+
+
+      </div>
+
+      <div class="How_to_choose">
+        <h5>Как выбрать игровой микрофон</h5>
+        <h6>Основные советы по подбору</h6>
+        <div class="selectio_tips">
+          <div class="selectio_tips_content">
+            <h6>Частотный диапазон</h6>
+            <p>Один из самых главных показателей при выборе микрофона. От того, насколько широк частотный диапазон, зависит, какое количество звуков сможет воспринимать устройство. Частотный диапазон измеряется в герцах и килогерцах. Микрофон с широким диапазоном подходит для тех, кто покупает девайс для занятий вокалом. Профессиональным геймерам такая функция позволяет быстрее реагировать на звуки в игре</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Тип подключения</h6>
+            <p>Беспроводные микрофоны практически исчезли из продажи, большинство моделей поддерживают подключение через разъем USB. Они просты в подключении, легко настраиваются, не требуют звуковой карты</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Чувствительность</h6>
+            <p>ОЧувствительность микрофона ‒ показатель, который определяет, насколько тихим может быть звук при записи. Для использования дома у гаджета должна быть чувствительность от 40 децибел</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Направленность</h6>
+            <p>Это второй показатель при поиске микрофона для геймеров. Устройство может записывать звук в различных направлениях, от этого зависит, насколько хорошо вас будет слышно в онлайн-игре. Хорошая модель ведет запись во всех направлениях одновременно. Такие микрофоны распространены как в быту, так и в профессиональной деятельности. По направленности игровые микрофоны подразделяются на кардиоидные и суперкардиоидные. Устройства первой группы не воспринимают посторонние звуки кроме вашего голоса и подходят для использования при отсутствии шумоподавляющего оборудования</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gray_line">
+      </div>
+
+    </div>
+
+
+
+
+    <div class="mm-e"> <!-- вэбкамеры -->
+
+      <div class="card_accessories_header" id="webcams_pkm">
+
+        <div class="card_accessories_header_General_photo_f_zz">
+          <div class="card_accessories_header_General_desc-f">
+            <h5>Игровые коврики для мышки от известных брендов</h5>
+            <h6>Выбери свой инструмент для игр или работы</h6>
+          </div>
+          <div class="card_accessories_header_General_photo-f">
+            <img src="img/catalog_accessories/card_accessories/webcams.webp" alt="Коврики">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="all_card_accessories">
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/webcams/Razer Kiyo.webp" alt="вэб-камера">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Веб-камера Razer Kiyo</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>5 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/webcams/Logitech C922 Pro Stream.webp" alt="вэб-камера">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Веб-камера Logitech C922 Pro Stream</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>7 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/webcams/Logitech BRIO.webp" alt="вэб-камера">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Веб-камера Logitech BRIO</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>9 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/webcams/Logitech StreamCam White.webp" alt="вэб-камера">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Веб-камера Logitech StreamCam White</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>11 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="How_to_choose">
+        <h5>Как выбрать камеру</h5>
+        <h6>Основные советы по подбору</h6>
+        <div class="selectio_tips">
+          <div class="selectio_tips_content">
+            <h6>Разрешение</h6>
+            <p>С этого параметра начинают изучение разных моделей камер. Лучшее разрешение ‒ FullHD. Выбирайте устройство с поддержкой такого разрешения, чтобы получить качественную картинку. Многие модели снимают в 4к, но такой формат требователен к объему памяти и ресурсу интернет-канала. Если пропускной способности недостаточно, картинка может «сыпаться» или тормозить</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Подключение</h6>
+            <p>Камеры подключаются через разъем USB или сразу через Интернет. Устройства, подключающиеся по Wi-Fi, относятся к профессиональным, их рекомендуют для проведения вебинаров, конференций и онлайн-встреч. Однако те камеры, которые подключаются через провод, отличаются более стабильной работой без задержек</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Угол обзора и поворот</h6>
+            <p>Угол обзора помогает определить, сколько пространства будет видно через камеру. Чем он шире, тем больше будет изображено на картинке ‒ не только ваше лицо, но и то, что находится за спиной. Поворачивая и наклоняя камеру, можно добиться разнообразных ракурсов. Новые модели оснащают датчиками, с которыми камера поворачивается вслед за вашими движениями</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Дополнительные функции</h6>
+            <p>Камеры оснащают микрофонами для записи звука. Еще одна деталь ‒ цифровой зум или ручная фокусировка, что поможет добиться идеально четкой картинки. Чтобы вести съемку в темноте, выбирайте камеру с подсветкой. Отдельного внимания заслуживает шторка, которая закрывает камеру в режиме покоя. Она обязательно понравится тем, кто уверен, что веб-камера используется для слежки</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gray_line">
+      </div>
+
+    </div>
+
+
+
+
+
+    <!-- модальное окно помощи в выборе, с формой ввода -->
+    <div class="modal_win" id="open-modal-win">
+      <h4>Нужна помощь в выборе аксесуаров?</h4>
+    </div>
+    <div class="form_input" id="form-input-modal">
+      <div class="form_input_box">
+        <button class="btn_close-form-input-modal" id="close-form-input-modal">
+          <img src="img/Modal_Windows/call_request_form/close.svg">
+        </button>
+        <h2>Получить консультацию</h2>
+
+        <div class="modal_win-content">
+          <form>
+            <div class="form_win_content">
+              <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
+            </div>
+            <div class="form_win_content">
+              <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
+            </div>
+            <div class="form_win_content">
+              <input class="in_com" type="email" id="email" name="email" required placeholder="Email">
+            </div>
+            <div class="form_win_content">
+              <textarea class="in_com" id="comment" name="comment" rows="4" placeholder="Комментарий"></textarea>
+            </div>
+            <button class="but_form_win_content" type="submit">Получить консультацию</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
   </div>
-  </div>
+
 </body>
 <?php
 include('footer.php');

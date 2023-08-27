@@ -31,6 +31,13 @@ if (window.location.href.includes('PC_Home.php')) {
   });
 }
 
+
+
+
+
+
+
+
 // всплывающие описание товара в карточке продукта, в Card_Product
 $(document).ready(function () {
   $('.but_Card').click(function (look) {
@@ -40,6 +47,8 @@ $(document).ready(function () {
     $(this).closest('.specific_info').removeClass('active');
   });
 });
+
+
 
 
 
@@ -107,8 +116,7 @@ if (window.location.href.includes('PC_Home.php')) {
 
 
 
-
-
+if (window.location.href.includes('working-series.php')) {
 // Справится с любой задачей в рабочих станциях переключение: 3d видеомантаж графика
 // Ждем, пока страница полностью загрузится
 document.addEventListener('DOMContentLoaded', function () {
@@ -148,6 +156,19 @@ document.addEventListener('DOMContentLoaded', function () {
     elementToShow.style.display = 'grid';
   }
 });
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 // модальное всплывающее окно, формы отправки данных пользователя
 document.getElementById("open-modal-win").addEventListener("click", function () {
