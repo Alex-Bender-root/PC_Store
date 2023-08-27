@@ -3559,9 +3559,12 @@ p {
 
 
 
+
+
 .card_accessories_header_General_photo_k_zz {
   height: 100%;
   width: 100%;
+  position: relative;
 }
 .card_accessories_header_General_photo-k {
   background-color: #000;
@@ -3605,6 +3608,9 @@ opacity: 0.35;
     .card_accessories_header_General_desc-k h6 {
 font-size: 1.1rem;
     }
+}
+#armchairs_photo {
+      background: linear-gradient(-135deg, rgba(255, 255, 255, 1) 55%, rgba(196, 194, 193, 0.644782913165266) 56%, rgba(0, 0, 0, 0.7792366946778712) 100%);
 }
 
 
@@ -3944,8 +3950,13 @@ font-size: 1.1rem;
   .card_accessories_header_General_photo_f_zz {
     grid-template-columns: 1fr;
     background: linear-gradient(150deg, rgba(255, 255, 255, 1) 55%, rgba(196, 194, 193, 0.644782913165266) 56%, rgba(0, 0, 0, 0.7792366946778712) 100%);
-
   }
+    #armchairs_photo {
+  background: linear-gradient(-145deg, rgba(255, 255, 255, 1) 55%, rgba(196, 194, 193, 0.644782913165266) 56%, rgba(0, 0, 0, 0.7792366946778712) 100%);
+    }
+    #armchairs_desc {
+      grid-row: 1/2;
+    }
 
 }
 

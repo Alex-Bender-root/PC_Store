@@ -11,7 +11,7 @@ include('header.php');
         <h5>Каталог геймерской периферии</h5>
         <div class="description_selection_hat">
           <p>Аксессуары для компьютера делают игры и работу на ПК комфортной по максимуму. Для игровых компьютеров мы собрали эргономичную периферию под каждого пользователя — ничто не отвлечет вас в борьбе за победу. Для работы мы находим среди девайсов те, что служат долго и подойдут для клиента по соотношению «цена-качество». Подбором аксессуаров для каталога занимаются эксперты с богатым опытом и знаниями в области рынка компьютерных девайсов.</p>
-          <img src="img/main_page/main.webp" alt="Аксессуары">
+          <img src="img/catalog_accessories/card_accessories/accessories_cove.webp" alt="Аксессуары">
         </div>
       </div>
     </div>
@@ -506,7 +506,6 @@ include('header.php');
 
 
 
-
     <div class="mm-e"> <!-- клавиатуры -->
 
       <div class="card_accessories_header">
@@ -826,7 +825,6 @@ include('header.php');
       </div>
 
     </div>
-
 
 
 
@@ -1764,7 +1762,7 @@ include('header.php');
 
         <div class="card_accessories_header_General_photo_k_zz">
           <div class="card_accessories_header_General_photo-k">
-            <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Монитор">
+            <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Мониторы">
           </div>
         </div>
         <div class="card_accessories_header_General_desc-k">
@@ -1780,17 +1778,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Razer_Ornata_V2.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/AOC C24G2AE 24.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура Razer Ornata V2</h3>
+            <h3>Монитор AOC C24G2AE 24</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>3 800 руб</p>
+              <p>15 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1814,17 +1812,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Logitech_G413_Carbon.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/Acer Nitro RG241YPbiipx 23.8.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура Logitech G413 Carbon</h3>
+            <h3>Монитор Acer Nitro RG241YPbiipx 23.8</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>4 300 руб</p>
+              <p>16 500 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1848,17 +1846,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/HyperX_Alloy_Origins.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/AOC C27G2U 27.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура HyperX Alloy Origins</h3>
+            <h3>Монитор AOC C27G2U 27</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>4 600 руб</p>
+              <p>17 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1882,17 +1880,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_TUF_Gaming_K5.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/Acer Nitro VG272UVbmiipx 27.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура ASUS TUF Gaming K5</h3>
+            <h3>Монитор Acer Nitro VG272UVbmiipx 27</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>5 500 руб</p>
+              <p>25 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1916,17 +1914,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Cooler_Master_CK550_V2_Red_Switch.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/ASUS TUF Gaming VG27AQL1A 27.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура Cooler Master CK550 V2 Red Switch</h3>
+            <h3>Монитор ASUS TUF Gaming VG27AQL1A 27</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>6 700 руб</p>
+              <p>27 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1950,17 +1948,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Dark_Project_KD3B_rev.2_White.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/DELL AW2720HFA Alienware 27.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура Dark Project KD3B rev.2 White</h3>
+            <h3>Монитор DELL AW2720HFA Alienware 27</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>8 000 руб</p>
+              <p>30 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -1984,17 +1982,17 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Corsair_K83_Wireless_Entertainment_Keyboard.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/AOC CU34G2X 34.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура Corsair K83 Wireless Entertainment Keyboard</h3>
+            <h3>Монитор AOC CU34G2X 34</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>8 200 руб</p>
+              <p>42 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -2018,17 +2016,477 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_ROG_Strix_Scope_TKL_Deluxe.webp" alt="клавиатура">
+              <img src="img/catalog_accessories/card_accessories/monitor/BenQ Zowie XL2546K 24.5.webp" alt="монитор">
             </a>
           </div>
 
           <div class="name_acсsess">
-            <h3>Клавиатура ASUS ROG Strix Scope TKL Deluxe</h3>
+            <h3>Монитор BenQ Zowie XL2546K 24.5</h3>
           </div>
 
           <div class="desc_acсsess">
             <div class="price_desc_acсsess">
-              <p>8 900 руб</p>
+              <p>45 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/monitor/Acer Predator X34GS 34.webp" alt="монитор">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Монитор Acer Predator X34GS 34</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>50 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/monitor/Samsung Odyssey C27G75TQSI 26.9.webp" alt="монитор">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Монитор Samsung Odyssey C27G75TQSI 26.9</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>65 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/monitor/ASUS ROG Strix XG43VQ 43.4.webp" alt="монитор">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Монитор ASUS ROG Strix XG43VQ 43.4</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>95 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/monitor/Samsung C49G95TSSI 48.9.webp" alt="монитор">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Монитор Samsung C49G95TSSI 48.9</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>110 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="How_to_choose">
+        <h5>Как выбрать игровой монитор</h5>
+        <h6>Основные советы по подбору</h6>
+        <div class="selectio_tips">
+          <div class="selectio_tips_content">
+            <h6>Диагональ</h6>
+            <p>От нее зависит удобство работы с устройством. На широкоформатном дисплее увеличивается размер текста, помещается больше игрового поля и окон. Если вы планируете использовать монитор для выполнения кропотливой работы, лучше выбирать небольшой формат, чтобы дисплей полностью попадал в ваше поле зрения. Если вы любите смотреть фильмы на компьютере, обрабатываете фотографии или занимаетесь графическим дизайном, присмотритесь к экранам в 28–30 дюймов. Киберспортсменам подойдут дисплеи от 27″. Большой экран даст вам возможность полностью погрузиться в игровую атмосферу</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Матрица</h6>
+            <p>Матрица – еще один важный показатель при выборе экрана для компьютера. Есть несколько технологий их изготовления: • TN – это недорогие и быстрые матрицы, которые подходят для решения простых задач. • IPS – более качественные и дорогие модели, которые отличаются разнообразными углами обзора и насыщенными цветами. • VA — улучшенные углы обзора и более яркие цвета, но менее быстрый отклик. Основной недостаток таких матриц – плохая передача полутонов и изменение цветового баланса в зависимости от местоположения пользователя</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Разрешение</h6>
+            <p>Оно влияет на качество картинки. Даже если вы не планируете использовать экран для игр и просмотра кино и сериалов, не стоит покупать дисплеи с низким разрешением: ваши глаза быстрее устанут, зрение ухудшится. Рекомендуем присмотреться к моделям с разрешением более 1560х1400. Привычный нам формат 1920х1080 уже устарел и скорее всего начнет зернить на новых экранах</p>
+          </div>
+          <div class="selectio_tips_content">
+            <h6>Период отклика</h6>
+            <p>Чем он меньше, тем быстрее экран будет реагировать на смену изображений. Высокие показатели могут искажать картинку. Период отклика измеряется в миллисекундах. Стандартное значение – от 3 до 5. Если вы покупаете монитор для прохождения игр, советуем обратить внимание на экран с быстрым откликом, до 2 мс, чтобы насладиться быстротой смены действий на дисплее и полностью погрузиться в процесс</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gray_line">
+      </div>
+
+    </div>
+
+
+
+
+    <div class="mm-e"> <!-- кресла -->
+
+      <div class="card_accessories_header">
+
+        <div class="card_accessories_header_General_photo_f_zz" id="armchairs_photo">
+          <div class="card_accessories_header_General_photo-f">
+            <img src="img/catalog_accessories/card_accessories/armchairs.webp" alt="Коврики">
+          </div>
+          <div class="card_accessories_header_General_desc-f" id="armchairs_desc">
+            <h5>Игровые кресла от известных брендов</h5>
+            <h6>Выбери свой инструмент для игр или работы</h6>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="all_card_accessories">
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/Cooler Master Caliber R1.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло Cooler Master Caliber R1</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>20 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/Master Caliber R2.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло Cooler Master Caliber R2</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>22 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Sg.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло WARP Sg</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>23 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Ze.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло WARP Ze</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>24 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Formula.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло DXRacer Formula</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>24 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Z.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло WARP Z</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>25 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Racing.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло DXRacer Racing</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>33 000 руб</p>
+            </div>
+            <div class="but_desc_acсsess">
+
+              <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
+                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <button>Добавить</button>
+              </div>
+
+              <div class="del_desc_acсsess">
+                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <button>Удалить</button>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="card_accessories">
+
+          <div class="ph_acсsess">
+            <a href="#">
+              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Iron.webp" alt="кресло">
+            </a>
+          </div>
+
+          <div class="name_acсsess">
+            <h3>Кресло DXRacer Iron</h3>
+          </div>
+
+          <div class="desc_acсsess">
+            <div class="price_desc_acсsess">
+              <p>40 000 руб</p>
             </div>
             <div class="but_desc_acсsess">
 
@@ -2051,24 +2509,24 @@ include('header.php');
       </div>
 
       <div class="How_to_choose">
-        <h5>Как выбрать игровую клавиатуру</h5>
+        <h5>Как выбрать игровое кресло</h5>
         <h6>Основные советы по подбору</h6>
         <div class="selectio_tips">
           <div class="selectio_tips_content">
-            <h6>Назначение</h6>
-            <p>По назначению выделяют две крупные группы клавиатур: «рабочие» и игровые. У последних более яркий дизайн, дополнительные программируемые клавиши, обтекаемая форма со специальными подставками для кистей. Негеймерские клавиатуры обычно изготавливают без подсветки (или с однотонной) и дополнительных клавиш. У них более простой дизайн, не столь высокие требования к чувствительности и времени отклика</p>
+            <h6>Эргономичность</h6>
+            <p>Компьютерное кресло с дополнительной поддержкой корпуса сбоку значительно снижает нагрузку на позвоночник и мышцы. Вы можете подобрать высоту и ширину сиденья в соответствии с индивидуальными особенностями. Обращайте внимание на то, чтобы кресла были оснащены подлокотниками для комфортного размещения рук, в некоторых моделях их высота может регулироваться. Еще одной полезной функцией будет качание, которое позволяет размяться и подвигаться, не вставая со своего рабочего места</p>
           </div>
           <div class="selectio_tips_content">
-            <h6>Механическая или мембранная</h6>
-            <p>Конструктивно клавиатуры делят на механические и мембранные. Клавиши механических откликаются быстрее и громче – можно провести аналогию с кнопками на старых печатных машинках. Они подходят для игр. Мембранные отличаются более низким ходом, бесшумной работой и не столь быстрым откликом. Их основа — резиновая подложка-мембрана. Под ней расположены контакты переключателей. Такие модели подходят для дома/офиса</p>
+            <h6>Газлифт и крестовина</h6>
+            <p>Крестовиной называется основание кресла, которое выдерживает основную нагрузку. Она бывает металлической и пластиковой. Вторые более дешевые и менее долговечные. Крестовины из металла тяжелые, более дорогие, но надежные. Газлифт – основание кресла, которое выглядит как баллон из стали, наполненные воздухом. Он служит для регулирования высоты кресла. Четвертая категория газлифтов имеет самое высокое качество</p>
           </div>
           <div class="selectio_tips_content">
-            <h6>Тип подключения</h6>
-            <p>Проводные и беспроводные клавиатуры. Последние дают большую свободу, однако есть риск, что при затяжной игровой сессии устройство исчерпает весь ресурс и потребует подзарядки в самый неподходящий момент. Кроме того, у беспроводных клавиатур скорость сигнала выше, чем у проводных. Для динамичных игр лучше брать модель с проводным подключением</p>
+            <h6>Обивка</h6>
+            <p>Кресла обиваются сеткой из акрила, тканью, натуральной или искусственной кожей. Текстиль – более маркий материал, за которым требуется особый уход: он быстрее затирается и выцветает. За искусственной кожей легко ухаживать, однако она плохо проводит влагу и может трескаться на сгибах. Эко кожа – более экологичный материал, износостойкий, мягкий и эластичный, он хорошо дышит и пропускает воду. В отличие от натуральной кожи, эко не вызывает аллергии и не подвержена растрескиванию</p>
           </div>
           <div class="selectio_tips_content">
-            <h6>Дополнительные клавиши</h6>
-            <p>Если вы хотите быстро запустить любимое приложений, сменит эквалайзер, настроить громкость или произвести другие схожие действия, можно настроить под них специальные клавиши. Они есть не на всех клавиатурах, но на большинстве игровых моделей имеются. Для офисной работы функциональные клавиши тоже удобны. Например, можно запрограммировать повторяющиеся действия в редакторе, автозамены, вызов макросов</p>
+            <h6>Ролики</h6>
+            <p>Они должны быть устойчивыми и легко вращаться в любом направлении. Ролики изготавливаются из полиуретана, полипропилена и полиамида. Если кресло будет стоять на твердой поверхности (например, паркете), выбирайте мягкие колеса, на мягкой (ковре) – твердые. Ролики нужно регулярно очищать и смазывать</p>
           </div>
 
         </div>
