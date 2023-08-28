@@ -195,3 +195,61 @@ document.getElementById("form-input-modal").addEventListener('click', event => {
 
 
 
+
+
+
+
+
+
+
+
+if (window.location.href.includes('delivery.php')) {
+  // Подбор по параметрам PC_Home 
+  // Ждем, пока страница полностью загрузится
+  document.addEventListener('DOMContentLoaded', function () {
+    // Получаем ссылки на элементы, которые нужно показывать/скрывать
+    const needsGame = document.getElementById('needs__game');
+    const needsGraphics = document.getElementById('needs__Graphics');
+    const needsPrograms = document.getElementById('needs__programs');
+    const needsProcessors = document.getElementById('needs__processors');
+    // Добавляем обработчики событий на элементы с определенными классами
+    document.querySelector('.needs_game').addEventListener('click', () => {
+      showElement(needsGame);
+      $(".Sel_par_needs div").removeClass("button_presed");
+      $('.needs_game').toggleClass("button_presed");
+    });
+    document.querySelector('.needs_Graphics').addEventListener('click', () => {
+      showElement(needsGraphics);
+      $(".Sel_par_needs div").removeClass("button_presed");
+      $('.needs_Graphics').toggleClass("button_presed");
+    });
+    document.querySelector('.needs_programs').addEventListener('click', () => {
+      showElement(needsPrograms);
+      $(".Sel_par_needs div").removeClass("button_presed");
+      $('.needs_programs').toggleClass("button_presed");
+    });
+    document.querySelector('.needs_processors').addEventListener('click', () => {
+      showElement(needsProcessors);
+      $(".Sel_par_needs div").removeClass("button_presed");
+      $('.needs_processors').toggleClass("button_presed");
+    });
+    // Функция для скрытия всех элементов и показа выбранного
+    function showElement(elementToShow) {
+      // Скрываем все элементы, кроме выбранного
+      if (elementToShow !== needsGame) {
+        needsGame.style.display = 'none';
+      }
+      if (elementToShow !== needsGraphics) {
+        needsGraphics.style.display = 'none';
+      }
+      if (elementToShow !== needsPrograms) {
+        needsPrograms.style.display = 'none';
+      }
+      if (elementToShow !== needsProcessors) {
+        needsProcessors.style.display = 'none';
+      }
+      // Показываем выбранный элемент
+      elementToShow.style.display = 'grid';
+    }
+  });
+}

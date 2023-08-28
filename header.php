@@ -34,7 +34,7 @@
         <ul class="header_list">
           <li><a href="PC_Home.php" class="header_link">Компьютеры</a></li>
           <li><a href="accessories-series.php" class="header_link">Аксесуары</a></li>
-          <li><a href="#" class="header_link">Доставка</a></li>
+          <li><a href="delivery.php" class="header_link">Доставка</a></li>
           <li><a href="#" class="header_link">Гарантия</a></li>
           <li><a href="#" class="header_link">Оплата</a></li>
           <li><a href="#news" class="header_link">Контакты</a></li>

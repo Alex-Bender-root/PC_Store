@@ -2540,6 +2540,8 @@ p {
   text-align: center;
 }
 
+
+
 .selection_hat h2 {
   font-size: 2.5rem;
   font-family: 'Black';
@@ -3430,8 +3432,6 @@ p {
 }
 
 
-
-
 .card_accessories_header_General_photo-a {
   width: 100%;
   display: flex;
@@ -3445,12 +3445,6 @@ p {
   border-radius: 10px;
   box-shadow: 0px 0px 24px 19px rgba(73, 73, 73, 0.37);
 }
-
-
-
-
-
-
 
 
 
@@ -3496,10 +3490,6 @@ p {
 }
 
 
-
-
-
-
 .card_accessories_header_General_photo_c_zz {
   display: grid;
   grid-template-columns: 1fr;
@@ -3526,13 +3516,6 @@ p {
 }
 
 
-
-
-
-
-
-
-
 .card_accessories_header_General_photo_f_zz {
   display: grid;
   width: 100%;
@@ -3555,11 +3538,6 @@ p {
   width: 100%;
   overflow: hidden;
 }
-
-
-
-
-
 
 
 .card_accessories_header_General_photo_k_zz {
@@ -3622,21 +3600,6 @@ p {
 #armchairs_photo {
   background: linear-gradient(-135deg, rgba(255, 255, 255, 1) 55%, rgba(196, 194, 193, 0.644782913165266) 56%, rgba(0, 0, 0, 0.7792366946778712) 100%);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .all_card_accessories {
@@ -3804,18 +3767,67 @@ p {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* общие стили для аксесууаров */
+
+
+
+
+
+
+
+
+
+
+
+/* общие доставка, гарантия , оплата */
+
+#selection_hat-delivery_head {
+  display: grid;
+  grid-template-columns: 0.7fr 1.3fr;
+}
+
+.heading_delivery {
+  justify-self: center;
+  align-self: center;
+  text-align: left;
+  padding-right: 4%;
+}
+
+#description_selection_hat-delivery_head {
+  grid-template-columns: 1fr;
+  padding: 10% 0;
+}
+
+#description_selection_hat-delivery_head img {
+  display: grid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* общие доставка, гарантия , оплата */
+
+
+
+
+
+
 
 
 
@@ -3970,6 +3982,19 @@ p {
     grid-row: 1/2;
   }
 
+  #selection_hat-delivery_head {
+    grid-template-columns: 1fr;
+  }
+    #description_selection_hat-delivery_head {
+      grid-template-columns: 1fr;
+      padding: 2% 2%;
+    }
+
+  .heading_delivery {
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 0;
+  }
 }
 
 @media (max-width:425px) {
