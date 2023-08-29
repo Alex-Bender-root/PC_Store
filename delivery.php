@@ -24,31 +24,348 @@ include('header.php');
 
 
 
+    <!-- любая форма переключения тройного diva с js -->
 
 
+
+    <div class="any_task">
+
+      <div class="any_task_desc">
+        <div class="any_desk_rr">
+          <div class="a_rr"><img src="img/Workstations_series/rr.png"></div>
+          <div class="b_rr">
+            <h4>Куда доставляем</h4>
+          </div>
+        </div>
+        <p>Вы можете оформить доставку заказа из любой точки мира и получить его не выходя из дома</p>
+      </div>
+
+      <div class="any_task_content">
+
+        <div class="any_task_cont_selection">
+          <div class="sel_3d">
+            <h5>Москва и МО</h5>
+          </div>
+          <div class="sel_vid">
+            <h5>Россия и ЕАЭС</h5>
+          </div>
+          <div class="sel_graph">
+            <h5>Международная</h5>
+          </div>
+        </div>
+
+        <div class="any_task_cont_filling">
+
+          <div class="con_mbr" id="d3_model">
+            <div class="bb_y">
+              <table class="mbr_table_deliv">
+                <tbody>
+                  <tr>
+                    <th>
+                      <p class="mm-fst-p2">Продукция</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Тип</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Сроки</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Услуги</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Стоимость</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Компьютер</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Курьер MAN-MADE</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">1 день</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Установка/Подключение</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">Бесплатно</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Ноутбук</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Курьер MAN-MADE</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">1 день</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">-</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">Бесплатно</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Аксессуары</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Курьер MAN-MADE / ТК</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">1 день</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">-</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 300 руб.</p>
+                    </th>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="bb_y" id="bb_top">
+              <p class="mm-fst-p2">Доставка</p>
+              <p class="mm-fst-t2 mn-pt-12px">Доставка до 5 км от МКАД – бесплатно, более 5 км от МКАД по тарифу 40 руб/км.</p>
+              <p class="mm-fst-p2 mn-pt-24px">Сервис</p>
+              <p class="mm-fst-t2 mn-pt-12px">При доставке вашего заказа, наши специалисты произведут установку и подключение оборудования, а так же, продемонстрируют работоспособность.</p>
+            </div>
+          </div>
+
+
+
+
+          <div class="con_mbr" id="video_editing">
+            <div class="bb_y">
+              <table class="mbr_table_deliv">
+                <tbody>
+                  <tr>
+                    <th>
+                      <p class="mm-fst-p2">Продукция</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Тип</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Сроки</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Услуги</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Стоимость</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Компьютер</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 2 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">Бесплатно до терминала ТК</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Ноутбук</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 2 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 800 руб.</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Аксессуары</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 2 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 500 руб.</p>
+                    </th>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="bb_y" id="bb_top">
+              <p class="mm-fst-p2">Доставка до терминала</p>
+              <p class="mm-fst-t2 mn-pt-12px">Доставка по территории РФ осуществляется бесплатно, до ближайшего к вашему адресу терминала, транспортной компанией – партнером MAN-MADE.</p>
+              <p class="mm-fst-p2 mn-pt-24px">Доставка до двери</p>
+              <p class="mm-fst-t2 mn-pt-12px">При необходимости оформим доставку вашего заказа до двери, расчет такой услуги производится индивидуально.</p>
+            </div>
+          </div>
+
+
+
+
+
+          <div class="con_mbr" id="graphic_arts">
+            <div class="bb_y">
+              <table class="mbr_table_deliv">
+                <tbody>
+                  <tr>
+                    <th>
+                      <p class="mm-fst-p2">Продукция</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Тип</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Сроки</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Услуги</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Документы</p>
+                    </th>
+                    <th>
+                      <p class="mm-fst-p2">Стоимость</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Компьютер</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 5 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                    </th>
+                    <th data-label="Документы">
+                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 8 000 руб.</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Ноутбук</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 5 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                    </th>
+                    <th data-label="Документы">
+                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 1 200 руб.</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th data-label="Продукция">
+                      <p class="mm-fst-p2l">Аксессуары</p>
+                    </th>
+                    <th data-label="Тип">
+                      <p class="mm-fst-p2l">Транспортная компания</p>
+                    </th>
+                    <th data-label="Сроки">
+                      <p class="mm-fst-p2l">от 5 дней</p>
+                    </th>
+                    <th data-label="Услуги">
+                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                    </th>
+                    <th data-label="Документы">
+                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                    </th>
+                    <th data-label="Стоимость">
+                      <p class="mm-fst-p2l">от 1 000 руб.</p>
+                    </th>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="bb_y" id="bb_top">
+              <p class="mm-fst-p2">Доставка по миру</p>
+              <p class="mm-fst-t2 mn-pt-12px">Для того чтобы обеспечить нашим покупателям комфортную доставку в любую точку планеты мы отработали механизм взаимодействия с крупнейшими международными логистическими компаниями. Помимо международной доставки мы помогаем нашим клиентам с оформлением всех необходимых таможенных документов.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 
     <div class="Selection_parameters">
       <div class="sel_par_desc">
-        <h5>Подбор по параметрам</h5>
-        <p>Удобный способ выбрать компьютер</p>
+        <h5>Куда доставляем</h5>
+        <p>Вы можете оформить доставку заказа из любой точки мира и получить его не выходя из дома</p>
       </div>
-      <div class="Sel_par_needs">
-        <div class="needs_game">
-          <h6>По<br>играм</h6>
+
+      <div class="mbr_full">
+        <div class="mbr_a">      needs_game
+          <h6>Москва и МО</h6>
         </div>
-        <div class="needs_Graphics">
-          <h6>По<br>видеокарте</h6>
+        <div class="mbr_b">        needs_Graphics
+          <h6>Россия и ЕАЭС</h6>
         </div>
-        <div class="needs_programs">
-          <h6>По<br>программам</h6>
-        </div>
-        <div class="needs_processors">
-          <h6>По<br> процессорам</h6>
+        <div class="mbr_c">          needs_programs
+          <h6>Международная</h6>
         </div>
       </div>
 
-      <div class="needs_desc_total">
+      <div class="mbr_full_desc">
 
-        <div class="needs_desc" id="needs__game">
+        <div class="mbr_desc" id="mbr_a_a">
           <div class="needs_desc_p_but">
             <p>Выбери свою любимую игру, а мы расскажем и подскажем какой именно компьютер подойдет для тебя лучше всего! Высокие и ультра настройки графики, оптимальные конфигурации или ультимативные характеристики комплектующих. Все это в разделе подбора ПК по играм.</p>
             <button class="needs_but">
@@ -60,7 +377,7 @@ include('header.php');
           </div>
         </div>
 
-        <div class="needs_desc" id="needs__Graphics">
+        <div class="mbr_desc" id="mbr_b_b">
           <div class="needs_desc_p_but">
             <p>Именно от уровня видеокарты зависит игровая производительность ПК. Поэтому в наших сборках присутствуют лучшие продукты от компании NVIDIA новейших поколений - серии RTX 30хх и 40хх. Помимо высокого ФПС они обеспечивают поддержку самых современных технологий, таких как трассировка лучей или адаптивное ИИ-сглаживание DLSS, ускорение рендеринга за счет использования потенциала CUDA-ядер.</p>
             <button class="needs_but">
@@ -72,7 +389,7 @@ include('header.php');
           </div>
         </div>
 
-        <div class="needs_desc" id="needs__programs">
+        <div class="mbr_desc" id="mbr_c_c">
           <div class="needs_desc_p_but">
             <p>Подберите программу с помощью которой вы работаете или занимаетесь созданием контента, а мы расскажем и подскажем какой именно компьютер подойдет для ускорения рабочего процесса. Драйвера NVIDIA STUDIO и оптимизация софта, оптимальные конфигурации или максимальная производительность компьютера.</p>
             <button class="needs_but">
@@ -84,21 +401,10 @@ include('header.php');
           </div>
         </div>
 
-        <div class="needs_desc" id="needs__processors">
-          <div class="needs_desc_p_but">
-            <p>В наших сборках используются новейшие поколения процессоров от Intel i5, i7, i9 и AMD Ryzen 5, 7, 9. Бюджетных вариантов от обеих компаний будет достаточно для решения любых бытовых задач и раскрытия потенциала среднебюджетных видеочипов. Более продвинутые модели позволят поиграть на ультра-настройках, продемонстрируют высокую производительность в 3D-моделировании, обработке аудио/видео потоков.</p>
-            <button class="needs_but">
-              <p>Подобрать</p>
-            </button>
-          </div>
-          <div class="needs_desc_img">
-            <img src="img/main_page/par_needs/cpu.webp" alt="processors">
-          </div>
-        </div>
-
       </div>
     </div>
 
+ -->
 
 
 
@@ -122,38 +428,37 @@ include('header.php');
 
 
 
+  <div class="modal_win" id="open-modal-win">
+    <h4>Получить обратную связь</h4>
+  </div>
 
-    <div class="modal_win" id="open-modal-win">
-      <h4>Получить обратную связь</h4>
-    </div>
+  <div class="form_input" id="form-input-modal">
+    <div class="form_input_box">
+      <button class="btn_close-form-input-modal" id="close-form-input-modal">
+        <img src="img/Modal_Windows/call_request_form/close.svg">
+      </button>
+      <h2>Получить консультацию</h2>
 
-    <div class="form_input" id="form-input-modal">
-      <div class="form_input_box">
-        <button class="btn_close-form-input-modal" id="close-form-input-modal">
-          <img src="img/Modal_Windows/call_request_form/close.svg">
-        </button>
-        <h2>Получить консультацию</h2>
-
-        <div class="modal_win-content">
-          <form>
-            <div class="form_win_content">
-              <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
-            </div>
-            <div class="form_win_content">
-              <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
-            </div>
-            <div class="form_win_content">
-              <input class="in_com" type="email" id="email" name="email" required placeholder="Email">
-            </div>
-            <div class="form_win_content">
-              <textarea class="in_com" id="comment" name="comment" rows="4" placeholder="Комментарий"></textarea>
-            </div>
-            <button class="but_form_win_content" type="submit">Получить консультацию</button>
-          </form>
-        </div>
-
+      <div class="modal_win-content">
+        <form>
+          <div class="form_win_content">
+            <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
+          </div>
+          <div class="form_win_content">
+            <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
+          </div>
+          <div class="form_win_content">
+            <input class="in_com" type="email" id="email" name="email" required placeholder="Email">
+          </div>
+          <div class="form_win_content">
+            <textarea class="in_com" id="comment" name="comment" rows="4" placeholder="Комментарий"></textarea>
+          </div>
+          <button class="but_form_win_content" type="submit">Получить консультацию</button>
+        </form>
       </div>
+
     </div>
+  </div>
 
   </div>
 </body>

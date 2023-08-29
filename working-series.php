@@ -18,6 +18,8 @@ include('header.php');
           <source src="video/gaming_pc/gaming_video.mp4" type="video/mp4">
         </video>
       </div>
+
+
       <div class="any_task">
 
         <div class="any_task_desc">
@@ -87,6 +89,13 @@ include('header.php');
         </div>
 
       </div>
+
+
+
+
+
+
+      
       <div class="product_general">
         <div class="product_general_desc" id="product_general_desc_green">
           <h4>Рабочие станции серии Creative</h4>

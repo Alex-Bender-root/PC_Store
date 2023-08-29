@@ -117,45 +117,45 @@ if (window.location.href.includes('PC_Home.php')) {
 
 
 if (window.location.href.includes('working-series.php')) {
-// Справится с любой задачей в рабочих станциях переключение: 3d видеомантаж графика
-// Ждем, пока страница полностью загрузится
-document.addEventListener('DOMContentLoaded', function () {
-  // Получаем ссылки на элементы, которые нужно показывать/скрывать
-  const d3model = document.getElementById('d3_model');
-  const videoediting = document.getElementById('video_editing');
-  const graphicarts = document.getElementById('graphic_arts');
-  // Добавляем обработчики событий на элементы с определенными классами
-  document.querySelector('.sel_3d').addEventListener('click', () => {
-    showElement(d3model);
-    $(".any_task_cont_selection div").removeClass("sel_still");
-    $('.sel_3d').toggleClass("sel_still");
-  });
-  document.querySelector('.sel_vid').addEventListener('click', () => {
-    showElement(videoediting);
-    $(".any_task_cont_selection div").removeClass("sel_still");
-    $('.sel_vid').toggleClass("sel_still");
-  });
-  document.querySelector('.sel_graph').addEventListener('click', () => {
-    showElement(graphicarts);
-    $(".any_task_cont_selection div").removeClass("sel_still");
-    $('.sel_graph').toggleClass("sel_still");
-  });
-  // Функция для скрытия всех элементов и показа выбранного
-  function showElement(elementToShow) {
-    // Скрываем все элементы, кроме выбранного
-    if (elementToShow !== d3model) {
-      d3model.style.display = 'none';
+  // Справится с любой задачей в рабочих станциях переключение: 3d видеомантаж графика
+  // Ждем, пока страница полностью загрузится
+  document.addEventListener('DOMContentLoaded', function () {
+    // Получаем ссылки на элементы, которые нужно показывать/скрывать
+    const d3model = document.getElementById('d3_model');
+    const videoediting = document.getElementById('video_editing');
+    const graphicarts = document.getElementById('graphic_arts');
+    // Добавляем обработчики событий на элементы с определенными классами
+    document.querySelector('.sel_3d').addEventListener('click', () => {
+      showElement(d3model);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_3d').toggleClass("sel_still");
+    });
+    document.querySelector('.sel_vid').addEventListener('click', () => {
+      showElement(videoediting);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_vid').toggleClass("sel_still");
+    });
+    document.querySelector('.sel_graph').addEventListener('click', () => {
+      showElement(graphicarts);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_graph').toggleClass("sel_still");
+    });
+    // Функция для скрытия всех элементов и показа выбранного
+    function showElement(elementToShow) {
+      // Скрываем все элементы, кроме выбранного
+      if (elementToShow !== d3model) {
+        d3model.style.display = 'none';
+      }
+      if (elementToShow !== videoediting) {
+        videoediting.style.display = 'none';
+      }
+      if (elementToShow !== graphicarts) {
+        graphicarts.style.display = 'none';
+      }
+      // Показываем выбранный элемент
+      elementToShow.style.display = 'grid';
     }
-    if (elementToShow !== videoediting) {
-      videoediting.style.display = 'none';
-    }
-    if (elementToShow !== graphicarts) {
-      graphicarts.style.display = 'none';
-    }
-    // Показываем выбранный элемент
-    elementToShow.style.display = 'grid';
-  }
-});
+  });
 }
 
 
@@ -203,50 +203,87 @@ document.getElementById("form-input-modal").addEventListener('click', event => {
 
 
 
+// if (window.location.href.includes('delivery.php')) {
+//   // Подбор по параметрам PC_Home 
+//   // Ждем, пока страница полностью загрузится
+//   document.addEventListener('DOMContentLoaded', function () {
+//     // Получаем ссылки на элементы, которые нужно показывать/скрывать
+//     const mbra = document.getElementById('mbr_a_a');
+//     const mbrb = document.getElementById('mbr_b_b');
+//     const mbrc = document.getElementById('mbr_c_c');
+//     // Добавляем обработчики событий на элементы с определенными классами
+//     document.querySelector('.mbr_a').addEventListener('click', () => {
+//       showElement(mbra);
+//       $(".mbr_full div").removeClass("button_mbr");
+//       $('.mbr_a').toggleClass("button_mbr");
+//     });
+//     document.querySelector('.mbr_b').addEventListener('click', () => {
+//       showElement(mbrb);
+//       $(".mbr_full div").removeClass("button_mbr");
+//       $('.mbr_b').toggleClass("button_mbr");
+//     });
+//     document.querySelector('.mbr_c').addEventListener('click', () => {
+//       showElement(mbrc);
+//       $(".mbr_full div").removeClass("button_mbr");
+//       $('.mbr_c').toggleClass("button_mbr");
+//     });
+
+//     // Функция для скрытия всех элементов и показа выбранного
+//     function showElement(elementToShow) {
+//       // Скрываем все элементы, кроме выбранного
+//       if (elementToShow !== mbra) {
+//         mbra.style.display = 'none';
+//       }
+//       if (elementToShow !== mbrb) {
+//         mbrb.style.display = 'none';
+//       }
+//       if (elementToShow !== mbrc) {
+//         mbrc.style.display = 'none';
+//       }
+//       // Показываем выбранный элемент
+//       elementToShow.style.display = 'grid';
+//     }
+//   });
+// }
+
+
+
+
 if (window.location.href.includes('delivery.php')) {
-  // Подбор по параметрам PC_Home 
+  // Справится с любой задачей в рабочих станциях переключение: 3d видеомантаж графика
   // Ждем, пока страница полностью загрузится
   document.addEventListener('DOMContentLoaded', function () {
     // Получаем ссылки на элементы, которые нужно показывать/скрывать
-    const needsGame = document.getElementById('needs__game');
-    const needsGraphics = document.getElementById('needs__Graphics');
-    const needsPrograms = document.getElementById('needs__programs');
-    const needsProcessors = document.getElementById('needs__processors');
+    const d3model = document.getElementById('d3_model');
+    const videoediting = document.getElementById('video_editing');
+    const graphicarts = document.getElementById('graphic_arts');
     // Добавляем обработчики событий на элементы с определенными классами
-    document.querySelector('.needs_game').addEventListener('click', () => {
-      showElement(needsGame);
-      $(".Sel_par_needs div").removeClass("button_presed");
-      $('.needs_game').toggleClass("button_presed");
+    document.querySelector('.sel_3d').addEventListener('click', () => {
+      showElement(d3model);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_3d').toggleClass("sel_still");
     });
-    document.querySelector('.needs_Graphics').addEventListener('click', () => {
-      showElement(needsGraphics);
-      $(".Sel_par_needs div").removeClass("button_presed");
-      $('.needs_Graphics').toggleClass("button_presed");
+    document.querySelector('.sel_vid').addEventListener('click', () => {
+      showElement(videoediting);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_vid').toggleClass("sel_still");
     });
-    document.querySelector('.needs_programs').addEventListener('click', () => {
-      showElement(needsPrograms);
-      $(".Sel_par_needs div").removeClass("button_presed");
-      $('.needs_programs').toggleClass("button_presed");
-    });
-    document.querySelector('.needs_processors').addEventListener('click', () => {
-      showElement(needsProcessors);
-      $(".Sel_par_needs div").removeClass("button_presed");
-      $('.needs_processors').toggleClass("button_presed");
+    document.querySelector('.sel_graph').addEventListener('click', () => {
+      showElement(graphicarts);
+      $(".any_task_cont_selection div").removeClass("sel_still");
+      $('.sel_graph').toggleClass("sel_still");
     });
     // Функция для скрытия всех элементов и показа выбранного
     function showElement(elementToShow) {
       // Скрываем все элементы, кроме выбранного
-      if (elementToShow !== needsGame) {
-        needsGame.style.display = 'none';
+      if (elementToShow !== d3model) {
+        d3model.style.display = 'none';
       }
-      if (elementToShow !== needsGraphics) {
-        needsGraphics.style.display = 'none';
+      if (elementToShow !== videoediting) {
+        videoediting.style.display = 'none';
       }
-      if (elementToShow !== needsPrograms) {
-        needsPrograms.style.display = 'none';
-      }
-      if (elementToShow !== needsProcessors) {
-        needsProcessors.style.display = 'none';
+      if (elementToShow !== graphicarts) {
+        graphicarts.style.display = 'none';
       }
       // Показываем выбранный элемент
       elementToShow.style.display = 'grid';
