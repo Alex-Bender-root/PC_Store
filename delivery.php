@@ -32,7 +32,7 @@ include('header.php');
 
       <div class="any_task_desc">
         <div class="any_desk_rr">
-          <div class="a_rr"><img src="img/Workstations_series/rr.png"></div>
+          <div class="a_rr_delive"><img src="img/delivery/deliv.png"></div>
           <div class="b_rr">
             <h4>Куда доставляем</h4>
           </div>
@@ -54,87 +54,92 @@ include('header.php');
           </div>
         </div>
 
-        <div class="any_task_cont_filling">
+
+
+
+
+
+        <div class="any_task_cont_filling" id="table_full_desc">
 
           <div class="con_mbr" id="d3_model">
-            <div class="bb_y">
+            <div class="bb_g">
               <table class="mbr_table_deliv">
                 <tbody>
-                  <tr>
+                  <tr id="fat_table">
                     <th>
-                      <p class="mm-fst-p2">Продукция</p>
+                      <p class="str_table_1">Продукция</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Тип</p>
+                      <p class="str_table_1">Тип</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Сроки</p>
+                      <p class="str_table_1">Сроки</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Услуги</p>
+                      <p class="str_table_1">Услуги</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Стоимость</p>
+                      <p class="str_table_1">Стоимость</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Компьютер</p>
+                      <p class="str_table_1l">Компьютер</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Курьер MAN-MADE</p>
+                      <p class="str_table_1l">Курьер </p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">1 день</p>
+                      <p class="str_table_1l">1 день</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Установка/Подключение</p>
+                      <p class="str_table_1l">Установка/Подключение</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">Бесплатно</p>
+                      <p class="str_table_1l">Бесплатно</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Ноутбук</p>
+                      <p class="str_table_1l">Ноутбук</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Курьер MAN-MADE</p>
+                      <p class="str_table_1l">Курьер </p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">1 день</p>
+                      <p class="str_table_1l">1 день</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">-</p>
+                      <p class="str_table_1l">-</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">Бесплатно</p>
+                      <p class="str_table_1l">Бесплатно</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Аксессуары</p>
+                      <p class="str_table_1l">Аксессуары</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Курьер MAN-MADE / ТК</p>
+                      <p class="str_table_1l">Курьер / ТК</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">1 день</p>
+                      <p class="str_table_1l">1 день</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">-</p>
+                      <p class="str_table_1l">-</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 300 руб.</p>
+                      <p class="str_table_1l">от 300 руб.</p>
                     </th>
                   </tr>
                 </tbody>
               </table>
             </div>
-            <div class="bb_y" id="bb_top">
-              <p class="mm-fst-p2">Доставка</p>
+            <div class="bb_lof">
+              <h6>Доставка</h6>
               <p class="mm-fst-t2 mn-pt-12px">Доставка до 5 км от МКАД – бесплатно, более 5 км от МКАД по тарифу 40 руб/км.</p>
-              <p class="mm-fst-p2 mn-pt-24px">Сервис</p>
+              <h6>Сервис</h6>
               <p class="mm-fst-t2 mn-pt-12px">При доставке вашего заказа, наши специалисты произведут установку и подключение оборудования, а так же, продемонстрируют работоспособность.</p>
             </div>
           </div>
@@ -143,84 +148,84 @@ include('header.php');
 
 
           <div class="con_mbr" id="video_editing">
-            <div class="bb_y">
+            <div class="bb_g">
               <table class="mbr_table_deliv">
                 <tbody>
-                  <tr>
+                  <tr id="fat_table">
                     <th>
-                      <p class="mm-fst-p2">Продукция</p>
+                      <p class="str_table_1">Продукция</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Тип</p>
+                      <p class="str_table_1">Тип</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Сроки</p>
+                      <p class="str_table_1">Сроки</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Услуги</p>
+                      <p class="str_table_1">Услуги</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Стоимость</p>
+                      <p class="str_table_1">Стоимость</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Компьютер</p>
+                      <p class="str_table_1l">Компьютер</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 2 дней</p>
+                      <p class="str_table_1l">от 2 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                      <p class="str_table_1l">Упаковка/100% страхование</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">Бесплатно до терминала ТК</p>
+                      <p class="str_table_1l">Бесплатно до терминала ТК</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Ноутбук</p>
+                      <p class="str_table_1l">Ноутбук</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 2 дней</p>
+                      <p class="str_table_1l">от 2 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                      <p class="str_table_1l">Упаковка/100% страхование</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 800 руб.</p>
+                      <p class="str_table_1l">от 800 руб.</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Аксессуары</p>
+                      <p class="str_table_1l">Аксессуары</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 2 дней</p>
+                      <p class="str_table_1l">от 2 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка/100% страхование</p>
+                      <p class="str_table_1l">Упаковка/100% страхование</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 500 руб.</p>
+                      <p class="str_table_1l">от 500 руб.</p>
                     </th>
                   </tr>
                 </tbody>
               </table>
             </div>
-            <div class="bb_y" id="bb_top">
-              <p class="mm-fst-p2">Доставка до терминала</p>
-              <p class="mm-fst-t2 mn-pt-12px">Доставка по территории РФ осуществляется бесплатно, до ближайшего к вашему адресу терминала, транспортной компанией – партнером MAN-MADE.</p>
-              <p class="mm-fst-p2 mn-pt-24px">Доставка до двери</p>
+            <div class="bb_lof">
+              <h6>Доставка до терминала</h6>
+              <p class="mm-fst-t2 mn-pt-12px">Доставка по территории РФ осуществляется бесплатно, до ближайшего к вашему адресу терминала, транспортной компанией – партнером .</p>
+              <h6>Доставка до двери</h6>
               <p class="mm-fst-t2 mn-pt-12px">При необходимости оформим доставку вашего заказа до двери, расчет такой услуги производится индивидуально.</p>
             </div>
           </div>
@@ -230,94 +235,94 @@ include('header.php');
 
 
           <div class="con_mbr" id="graphic_arts">
-            <div class="bb_y">
+            <div class="bb_g">
               <table class="mbr_table_deliv">
                 <tbody>
-                  <tr>
+                  <tr id="fat_table">
                     <th>
-                      <p class="mm-fst-p2">Продукция</p>
+                      <p class="str_table_1">Продукция</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Тип</p>
+                      <p class="str_table_1">Тип</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Сроки</p>
+                      <p class="str_table_1">Сроки</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Услуги</p>
+                      <p class="str_table_1">Услуги</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Документы</p>
+                      <p class="str_table_1">Документы</p>
                     </th>
                     <th>
-                      <p class="mm-fst-p2">Стоимость</p>
+                      <p class="str_table_1">Стоимость</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Компьютер</p>
+                      <p class="str_table_1l">Компьютер</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 5 дней</p>
+                      <p class="str_table_1l">от 5 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                      <p class="str_table_1l">Упаковка / 100% страхование </p>
                     </th>
                     <th data-label="Документы">
-                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                      <p class="str_table_1l">Оформление ГТД</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 8 000 руб.</p>
+                      <p class="str_table_1l">от 8 000 руб.</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Ноутбук</p>
+                      <p class="str_table_1l">Ноутбук</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 5 дней</p>
+                      <p class="str_table_1l">от 5 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                      <p class="str_table_1l">Упаковка / 100% страхование </p>
                     </th>
                     <th data-label="Документы">
-                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                      <p class="str_table_1l">Оформление ГТД</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 1 200 руб.</p>
+                      <p class="str_table_1l">от 1 200 руб.</p>
                     </th>
                   </tr>
                   <tr>
                     <th data-label="Продукция">
-                      <p class="mm-fst-p2l">Аксессуары</p>
+                      <p class="str_table_1l">Аксессуары</p>
                     </th>
                     <th data-label="Тип">
-                      <p class="mm-fst-p2l">Транспортная компания</p>
+                      <p class="str_table_1l">Транспортная компания</p>
                     </th>
                     <th data-label="Сроки">
-                      <p class="mm-fst-p2l">от 5 дней</p>
+                      <p class="str_table_1l">от 5 дней</p>
                     </th>
                     <th data-label="Услуги">
-                      <p class="mm-fst-p2l">Упаковка / 100% страхование </p>
+                      <p class="str_table_1l">Упаковка / 100% страхование </p>
                     </th>
                     <th data-label="Документы">
-                      <p class="mm-fst-p2l">Оформление ГТД</p>
+                      <p class="str_table_1l">Оформление ГТД</p>
                     </th>
                     <th data-label="Стоимость">
-                      <p class="mm-fst-p2l">от 1 000 руб.</p>
+                      <p class="str_table_1l">от 1 000 руб.</p>
                     </th>
                   </tr>
                 </tbody>
               </table>
             </div>
-            <div class="bb_y" id="bb_top">
-              <p class="mm-fst-p2">Доставка по миру</p>
+            <div class="bb_lof">
+              <h6>Доставка по миру</h6>
               <p class="mm-fst-t2 mn-pt-12px">Для того чтобы обеспечить нашим покупателям комфортную доставку в любую точку планеты мы отработали механизм взаимодействия с крупнейшими международными логистическими компаниями. Помимо международной доставки мы помогаем нашим клиентам с оформлением всех необходимых таможенных документов.</p>
             </div>
           </div>
