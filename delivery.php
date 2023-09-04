@@ -19,14 +19,7 @@ include('header.php');
     </div>
 
 
-
-
-
-
-
     <!-- любая форма переключения тройного diva с js -->
-
-
 
     <div class="any_task">
 
@@ -43,7 +36,7 @@ include('header.php');
       <div class="any_task_content">
 
         <div class="any_task_cont_selection">
-          <div class="sel_3d">
+          <div class="sel_3d sel_still">
             <h5>Москва и МО</h5>
           </div>
           <div class="sel_vid">
@@ -53,10 +46,6 @@ include('header.php');
             <h5>Международная</h5>
           </div>
         </div>
-
-
-
-
 
 
         <div class="any_task_cont_filling" id="table_full_desc">
@@ -333,6 +322,90 @@ include('header.php');
 
     </div>
 
+
+
+    <div class="razmetka8">
+      <h5>Часто задаваемые вопросы</h5>
+      <div class="razmetka8_1">
+
+        <div class="FAQ">
+          <div class="fa"><a>Сколько стоит доставка по Москве и Московской области?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>Доставка и подключение компьютеров для жителей Москвы полностью бесплатны. Доставка и подключение компьютеров для жителей МО рассчитывается по тарифу +40 руб/км от МКАД</p>
+        </div>
+
+
+        <div class="FAQ">
+          <div class="fa"><a>Сколько стоит доставка по России?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>Доставка компьютера до терминала ТК вашего города бесплатна, доставка до адреса рассчитывается по тарифам транспортной компании </p>
+        </div>
+
+        <div class="FAQ">
+          <div class="fa"><a>Я не могу принять доставку по Москве в рабочее время, как я могу получить свой заказ?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>Мы заботимся о комфорте своих клиентов и поэтому у Вас есть возможность оформить получение заказа в любое время будь то ранее утро или поздний вечер. </p>
+        </div>
+
+
+        <div class="FAQ">
+          <div class="fa"><a>Какие транспортные компании осуществляют доставку компьютеров?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>Мы сотрудничаем с лучшими представителями логистического бизнеса такими как СДЕК, Деловые линии, DHL, но наши клиенты могут выбрать любую ТК по своему усмотрению.</p>
+        </div>
+
+        <div class="FAQ">
+          <div class="fa"><a>Как я могу отлеживать процесс доставки своего заказа?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>Вы можете узнать любую интересующую Вас информацию по заказу у своего личного менеджера , либо воспользоваться сервисами отслеживания грузов на сайте ТК</p>
+        </div>
+
+        <div class="FAQ">
+          <div class="fa"><a>Я могу быть уверен, что мой компьютер доставят в целости и сохранности?</a></div>
+          <div class="fa_plus">︾</div>
+          <div class="fa_minus">︽</div>
+        </div>
+        <div class="questions">
+          <p>
+            Благодаря многолетнему опыту отправок ПК по всему миру, мы гарантируем целостность и надежность доставки, так как:
+            <br>- Все компоненты внутри компьютера зафиксированы при помощи транспортировочного пенопакета, который гарантирует сохранность комплектующих при тряске.
+            <br>- Компьютер подвергается дополнительной упаковке в транспортной компании, он помещается в прочный палетный борт и амортизирующую пленку.
+            <br>- Все отправления застрахованы на 100% стоимость от любого ущерба во время транспортировки
+          </p>
+        </div>
+        <div class="FAQ_bottom"></div> <!-- нижняя полоса -->
+
+      </div>
+    </div>
+
+
+    <div class="g_maps">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1615.1059756709703!2d47.83063244709495!3d52.02285398995429!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1693858738724!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+
+
+
+
+
+
+
+
   </div>
 
 
@@ -347,69 +420,6 @@ include('header.php');
 
 
 
-
-
-  <!-- 
-    <div class="Selection_parameters">
-      <div class="sel_par_desc">
-        <h5>Куда доставляем</h5>
-        <p>Вы можете оформить доставку заказа из любой точки мира и получить его не выходя из дома</p>
-      </div>
-
-      <div class="mbr_full">
-        <div class="mbr_a">      needs_game
-          <h6>Москва и МО</h6>
-        </div>
-        <div class="mbr_b">        needs_Graphics
-          <h6>Россия и ЕАЭС</h6>
-        </div>
-        <div class="mbr_c">          needs_programs
-          <h6>Международная</h6>
-        </div>
-      </div>
-
-      <div class="mbr_full_desc">
-
-        <div class="mbr_desc" id="mbr_a_a">
-          <div class="needs_desc_p_but">
-            <p>Выбери свою любимую игру, а мы расскажем и подскажем какой именно компьютер подойдет для тебя лучше всего! Высокие и ультра настройки графики, оптимальные конфигурации или ультимативные характеристики комплектующих. Все это в разделе подбора ПК по играм.</p>
-            <button class="needs_but">
-              <p>Подобрать</p>
-            </button>
-          </div>
-          <div class="needs_desc_img">
-            <img src="img/main_page/par_needs/game.webp" alt="game">
-          </div>
-        </div>
-
-        <div class="mbr_desc" id="mbr_b_b">
-          <div class="needs_desc_p_but">
-            <p>Именно от уровня видеокарты зависит игровая производительность ПК. Поэтому в наших сборках присутствуют лучшие продукты от компании NVIDIA новейших поколений - серии RTX 30хх и 40хх. Помимо высокого ФПС они обеспечивают поддержку самых современных технологий, таких как трассировка лучей или адаптивное ИИ-сглаживание DLSS, ускорение рендеринга за счет использования потенциала CUDA-ядер.</p>
-            <button class="needs_but">
-              <p>Подобрать</p>
-            </button>
-          </div>
-          <div class="needs_desc_img">
-            <img src="img/main_page/par_needs/Graphics.webp" alt="Graphics">
-          </div>
-        </div>
-
-        <div class="mbr_desc" id="mbr_c_c">
-          <div class="needs_desc_p_but">
-            <p>Подберите программу с помощью которой вы работаете или занимаетесь созданием контента, а мы расскажем и подскажем какой именно компьютер подойдет для ускорения рабочего процесса. Драйвера NVIDIA STUDIO и оптимизация софта, оптимальные конфигурации или максимальная производительность компьютера.</p>
-            <button class="needs_but">
-              <p>Подобрать</p>
-            </button>
-          </div>
-          <div class="needs_desc_img">
-            <img src="img/main_page/par_needs/prog.webp" alt="programs">
-          </div>
-        </div>
-
-      </div>
-    </div>
-
- -->
 
 
 

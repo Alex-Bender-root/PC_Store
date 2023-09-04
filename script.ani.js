@@ -12,7 +12,7 @@ $(document).ready(function () {
 
 
 
-if (window.location.href.includes('PC_Home.php')) {
+
 
   // Часто задаваемые вопросы
   document.addEventListener('DOMContentLoaded', function () {
@@ -29,7 +29,7 @@ if (window.location.href.includes('PC_Home.php')) {
       });
     }
   });
-}
+
 
 
 
@@ -200,51 +200,6 @@ document.getElementById("form-input-modal").addEventListener('click', event => {
 
 
 
-
-
-
-// if (window.location.href.includes('delivery.php')) {
-//   // Подбор по параметрам PC_Home 
-//   // Ждем, пока страница полностью загрузится
-//   document.addEventListener('DOMContentLoaded', function () {
-//     // Получаем ссылки на элементы, которые нужно показывать/скрывать
-//     const mbra = document.getElementById('mbr_a_a');
-//     const mbrb = document.getElementById('mbr_b_b');
-//     const mbrc = document.getElementById('mbr_c_c');
-//     // Добавляем обработчики событий на элементы с определенными классами
-//     document.querySelector('.mbr_a').addEventListener('click', () => {
-//       showElement(mbra);
-//       $(".mbr_full div").removeClass("button_mbr");
-//       $('.mbr_a').toggleClass("button_mbr");
-//     });
-//     document.querySelector('.mbr_b').addEventListener('click', () => {
-//       showElement(mbrb);
-//       $(".mbr_full div").removeClass("button_mbr");
-//       $('.mbr_b').toggleClass("button_mbr");
-//     });
-//     document.querySelector('.mbr_c').addEventListener('click', () => {
-//       showElement(mbrc);
-//       $(".mbr_full div").removeClass("button_mbr");
-//       $('.mbr_c').toggleClass("button_mbr");
-//     });
-
-//     // Функция для скрытия всех элементов и показа выбранного
-//     function showElement(elementToShow) {
-//       // Скрываем все элементы, кроме выбранного
-//       if (elementToShow !== mbra) {
-//         mbra.style.display = 'none';
-//       }
-//       if (elementToShow !== mbrb) {
-//         mbrb.style.display = 'none';
-//       }
-//       if (elementToShow !== mbrc) {
-//         mbrc.style.display = 'none';
-//       }
-//       // Показываем выбранный элемент
-//       elementToShow.style.display = 'grid';
-//     }
-//   });
-// }
 
 
 
