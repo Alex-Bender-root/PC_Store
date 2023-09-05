@@ -326,7 +326,7 @@ include('header.php');
 
     <div class="razmetka8">
       <h5>Часто задаваемые вопросы</h5>
-      <div class="razmetka8_1">
+      <div class="razmetka8_1" id="delivery_razmetka8_1">
 
         <div class="FAQ">
           <div class="fa"><a>Сколько стоит доставка по Москве и Московской области?</a></div>
@@ -394,9 +394,18 @@ include('header.php');
     </div>
 
 
+
+
+
+
     <div class="g_maps">
+
+
       <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1615.1059756709703!2d47.83063244709495!3d52.02285398995429!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1693858738724!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
     </div>
+
 
 
 
@@ -444,7 +453,7 @@ include('header.php');
 
 
   <div class="modal_win" id="open-modal-win">
-    <h4>Получить обратную связь</h4>
+    <h4>Получить обратную связь...</h4>
   </div>
 
   <div class="form_input" id="form-input-modal">
