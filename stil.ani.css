@@ -3025,6 +3025,7 @@ p {
   font-family: 'Black';
   transform: scale(1, 1.3);
   padding-top: 5px;
+  text-shadow: 0.5px 0.5px 2px #494949
 }
 
 .any_task_desc p {
@@ -3882,7 +3883,16 @@ p {
   margin: 0 auto;
   max-width: 1085px;
 }
-
+.g_maps_desc {
+  text-align: center;
+  padding-top: 7%;
+}
+.g_maps_desc h5 {
+    font-size: 2rem;
+      font-family: 'Black';
+      transform: scale(1, 1.3);
+      text-shadow: 0.5px 0.5px 2px #494949
+}
 .g_maps {
   display: flex;
   justify-content: center;
@@ -4168,6 +4178,8 @@ p {
   .card_accessories_header_General_desc-k {
     align-self: auto;
   }
-
+.g_maps_desc h5 {
+  padding-bottom: 5%;
+}
 
 }

@@ -323,7 +323,6 @@ include('header.php');
     </div>
 
 
-
     <div class="razmetka8">
       <h5>Часто задаваемые вопросы</h5>
       <div class="razmetka8_1" id="delivery_razmetka8_1">
@@ -393,96 +392,51 @@ include('header.php');
       </div>
     </div>
 
+    <div class="g_maps_desc">
+      <h5>Мы на картах</h5>
+      <div class="g_maps">
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1615.1059756709703!2d47.83063244709495!3d52.02285398995429!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1693858738724!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-
-
-
-    <div class="g_maps">
-
-
-      <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1615.1059756709703!2d47.83063244709495!3d52.02285398995429!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1693858738724!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-    </div>
-
-
-
-
-
-
-
-
-
-
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div class="modal_win" id="open-modal-win">
-    <h4>Получить обратную связь...</h4>
-  </div>
-
-  <div class="form_input" id="form-input-modal">
-    <div class="form_input_box">
-      <button class="btn_close-form-input-modal" id="close-form-input-modal">
-        <img src="img/Modal_Windows/call_request_form/close.svg">
-      </button>
-      <h2>Получить консультацию</h2>
-
-      <div class="modal_win-content">
-        <form>
-          <div class="form_win_content">
-            <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
-          </div>
-          <div class="form_win_content">
-            <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
-          </div>
-          <div class="form_win_content">
-            <input class="in_com" type="email" id="email" name="email" required placeholder="Email">
-          </div>
-          <div class="form_win_content">
-            <textarea class="in_com" id="comment" name="comment" rows="4" placeholder="Комментарий"></textarea>
-          </div>
-          <button class="but_form_win_content" type="submit">Получить консультацию</button>
-        </form>
       </div>
-
     </div>
-  </div>
+
+
+
+
+
+    <div class="modal_win" id="open-modal-win">
+      <h4>Получить обратную связь...</h4>
+    </div>
+
+    <div class="form_input" id="form-input-modal">
+      <div class="form_input_box">
+        <button class="btn_close-form-input-modal" id="close-form-input-modal">
+          <img src="img/Modal_Windows/call_request_form/close.svg">
+        </button>
+        <h2>Получить консультацию</h2>
+
+        <div class="modal_win-content">
+          <form>
+            <div class="form_win_content">
+              <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
+            </div>
+            <div class="form_win_content">
+              <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
+            </div>
+            <div class="form_win_content">
+              <input class="in_com" type="email" id="email" name="email" required placeholder="Email">
+            </div>
+            <div class="form_win_content">
+              <textarea class="in_com" id="comment" name="comment" rows="4" placeholder="Комментарий"></textarea>
+            </div>
+            <button class="but_form_win_content" type="submit">Получить консультацию</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
 
   </div>
 </body>
