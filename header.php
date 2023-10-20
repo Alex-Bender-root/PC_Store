@@ -7,7 +7,7 @@
   <meta name="keywords" content="ключево слово"> <!--ключевые слова! не более 20 слов, не более 3-х повторов-->
   <meta name="description" content="описание сайта"> <!--описание страницы-->
   <meta name="viewport" content="width=device-width">
-  <link rel="shortcut icon" sizes="120x120" href="img/icon_title.PNG" type="image/png">
+  <link rel="shortcut icon" href="img/icon_title.png" type="image/png">
   <link rel="stylesheet" href="stil.ani.css">
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script> <!--Подключаем Jquery -->
   <script defer src="script.ani.js"></script> <!-- подключаем файл  javascript, defer ставится для того чтобы снчала загрузилась страница а фаил js загружался в последнюю очередь  -->
