@@ -15,6 +15,7 @@ include('header.php');
         </div>
       </div>
       <div class="video_cover_gaming">
+      <p>тут будет видео превью</p>
         <video width="100%" height="auto" preload="auto" autoplay="autoplay" loop="loop" muted="muted">
           <source src="video/gaming_pc/gaming_video.mp4" type="video/mp4">
         </video>
@@ -1133,8 +1134,8 @@ include('header.php');
                 <input class="input_comment" type="text" id="name" name="name" required>
               </div>
               <div class="form-group">
-                <label class="lab" for="phone">Телефон*</label>
-                <input class="input_comment" type="number" id="phone" name="phone" required>
+                <label class="lab" for="number">Телефон*</label>
+                <input class="input_comment" type="number" id="phone" name="phone"  style=" -moz-appearance: textfield;">
               </div>
               <div class="form-group">
                 <label class="lab" for="email">Email*</label>

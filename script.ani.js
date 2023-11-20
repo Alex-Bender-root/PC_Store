@@ -14,48 +14,13 @@ $(document).ready(function () {
 
 
 
-// Часто задаваемые вопросы
-document.addEventListener('DOMContentLoaded', function () {
-  let coll = document.getElementsByClassName('FAQ');
-  for (let i = 0; i < coll.length; i++) {
-    coll[i].addEventListener('click', function () {
-      this.classList.toggle('active');
-      let content = this.nextElementSibling;
-      if (content.style.maxHeight) {
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = content.scrollHeight + 'px';
-      }
-    });
-  }
-});
 
 
 
 
 
 
-
-
-
-// всплывающие описание товара в карточке продукта, в Card_Product
-$(document).ready(function () {
-  $('.but_Card').click(function (look) {
-    $(this).siblings('.specific_info').first().toggleClass('active');
-  });
-  $('.info_close').click(function (look) {
-    $(this).closest('.specific_info').removeClass('active');
-  });
-});
-
-
-
-
-
-
-
-
-if (window.location.href.includes('PC_Home.php')) {
+// if (window.location.href.includes('index.php')) {
   // Подбор по параметрам PC_Home 
   // Ждем, пока страница полностью загрузится
   document.addEventListener('DOMContentLoaded', function () {
@@ -104,7 +69,61 @@ if (window.location.href.includes('PC_Home.php')) {
       elementToShow.style.display = 'grid';
     }
   });
-}
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Часто задаваемые вопросы
+  document.addEventListener('DOMContentLoaded', function () {
+    let coll = document.getElementsByClassName('FAQ');
+    for (let i = 0; i < coll.length; i++) {
+      coll[i].addEventListener('click', function () {
+        this.classList.toggle('active');
+        let content = this.nextElementSibling;
+        if (content.style.maxHeight) {
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + 'px';
+        }
+      });
+    }
+  });
+
+
+
+
+
+
+
+
+
+// всплывающие описание товара в карточке продукта, в Card_Product
+$(document).ready(function () {
+  $('.but_Card').click(function (look) {
+    $(this).siblings('.specific_info').first().toggleClass('active');
+  });
+  $('.info_close').click(function (look) {
+    $(this).closest('.specific_info').removeClass('active');
+  });
+});
+
+
+
+
+
+
+
 
 
 

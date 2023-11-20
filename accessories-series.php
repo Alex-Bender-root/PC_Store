@@ -526,7 +526,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Razer_Ornata_V2.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/Razer_Ornata_V2.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -541,12 +541,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -560,7 +560,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Logitech_G413_Carbon.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/Logitech_G413_Carbon.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -575,12 +575,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -594,7 +594,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/HyperX_Alloy_Origins.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/HyperX_Alloy_Origins.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -609,12 +609,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -628,7 +628,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_TUF_Gaming_K5.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/ASUS_TUF_Gaming_K5.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -643,12 +643,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -662,7 +662,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Cooler_Master_CK550_V2_Red_Switch.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/Cooler_Master_CK550_V2_Red_Switch.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -677,12 +677,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -696,7 +696,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Dark_Project_KD3B_rev.2_White.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/Dark_Project_KD3B_rev.2_White.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -711,12 +711,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -730,7 +730,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/Corsair_K83_Wireless_Entertainment_Keyboard.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/Corsair_K83_Wireless_Entertainment_Keyboard.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -745,12 +745,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -764,7 +764,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/keyboards/ASUS_ROG_Strix_Scope_TKL_Deluxe.webp" alt="клавиатура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/keyboards/ASUS_ROG_Strix_Scope_TKL_Deluxe.webp" alt="клавиатура">
             </a>
           </div>
 
@@ -779,12 +779,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -839,7 +839,7 @@ include('header.php');
             <h6>Выбери свой инструмент для игр или работы</h6>
           </div>
           <div class="card_accessories_header_General_photo-c">
-            <img src="img/catalog_accessories/card_accessories/headphones.webp" alt="Наушники">
+            <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones.webp" alt="Наушники">
           </div>
         </div>
 
@@ -851,7 +851,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/HyperX_Cloud_Stinger_Core.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/HyperX_Cloud_Stinger_Core.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -866,12 +866,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -885,7 +885,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Razer_Kraken_X_Lite.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Razer_Kraken_X_Lite.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -900,12 +900,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -919,7 +919,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/HyperX Cloud Stinger.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/HyperX Cloud Stinger.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -934,12 +934,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -953,7 +953,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Logitech G332 Leatherette.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Logitech G332 Leatherette.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -968,12 +968,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -987,7 +987,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Razer Kraken Black.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Razer Kraken Black.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1002,12 +1002,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1021,7 +1021,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Logitech G432 Leatherette.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Logitech G432 Leatherette.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1036,12 +1036,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1055,7 +1055,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/HyperX Cloud Alpha.webp" alt="Игровая гарнитура">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/headphones/HyperX Cloud Alpha.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1070,12 +1070,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1089,7 +1089,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/ASUS ROG Delta.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/ASUS ROG Delta.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1104,12 +1104,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1124,7 +1124,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/ASUS STRIX Fusion Wireless.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/ASUS STRIX Fusion Wireless.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1139,12 +1139,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1158,7 +1158,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/ASUS ROG Strix Go 2.4.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/ASUS ROG Strix Go 2.4.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1173,12 +1173,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1192,7 +1192,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/ASUS TUF Gaming H3.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/ASUS TUF Gaming H3.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1207,12 +1207,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1226,7 +1226,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/ASUS TUF Gaming H7 Wireless.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/ASUS TUF Gaming H7 Wireless.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1241,12 +1241,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1260,7 +1260,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Cooler Master MH630.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Cooler Master MH630.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1275,12 +1275,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1294,7 +1294,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Corsair Virtuoso Wireless White.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Corsair Virtuoso Wireless White.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1309,12 +1309,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1328,7 +1328,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Razer Kraken Ultimate.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Razer Kraken Ultimate.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1343,12 +1343,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1362,7 +1362,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/headphones/Razer Nari Essential.webp" alt="Игровая гарнитура">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/headphones/Razer Nari Essential.webp" alt="Игровая гарнитура">
             </a>
           </div>
 
@@ -1377,12 +1377,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1441,7 +1441,7 @@ include('header.php');
             <h6>Выбери свой инструмент для игр или работы</h6>
           </div>
           <div class="card_accessories_header_General_photo-f">
-            <img src="img/catalog_accessories/card_accessories/header_rug.webp" alt="Коврики">
+            <img loading="lazy"  src="img/catalog_accessories/card_accessories/header_rug.webp" alt="Коврики">
           </div>
         </div>
 
@@ -1453,7 +1453,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Control (XL).webp" alt="коврик">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Control (XL).webp" alt="коврик">
             </a>
           </div>
 
@@ -1468,12 +1468,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1487,7 +1487,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Speed (XL).webp" alt="коврик">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/HyperX FURY S Speed (XL).webp" alt="коврик">
             </a>
           </div>
 
@@ -1502,12 +1502,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1521,7 +1521,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Sheath.webp" alt="коврик">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Sheath.webp" alt="коврик">
             </a>
           </div>
 
@@ -1536,12 +1536,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1555,7 +1555,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Strix Edge.webp" alt="коврик">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/ASUS ROG Strix Edge.webp" alt="коврик">
             </a>
           </div>
 
@@ -1570,12 +1570,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1589,7 +1589,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/Cooler Master MP750 Large.webp" alt="коврик">
+              <img loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/Cooler Master MP750 Large.webp" alt="коврик">
             </a>
           </div>
 
@@ -1604,12 +1604,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1623,7 +1623,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/Corsair MM800 RGB Polaris.webp" alt="коврик">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/mouse_pads/Corsair MM800 RGB Polaris.webp" alt="коврик">
             </a>
           </div>
 
@@ -1638,12 +1638,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1657,7 +1657,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/ASUS TUF Gaming P3.webp" alt="коврик">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/ASUS TUF Gaming P3.webp" alt="коврик">
             </a>
           </div>
 
@@ -1672,12 +1672,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1691,7 +1691,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/mouse_pads/Logitech Powerplay.webp" alt="коврик">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/mouse_pads/Logitech Powerplay.webp" alt="коврик">
             </a>
           </div>
 
@@ -1706,12 +1706,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1762,7 +1762,7 @@ include('header.php');
 
         <div class="card_accessories_header_General_photo_k_zz">
           <div class="card_accessories_header_General_photo-k">
-            <img src="img/catalog_accessories/card_accessories/monitor.webp" alt="Мониторы">
+            <img loading="lazy"   src="img/catalog_accessories/card_accessories/monitor.webp" alt="Мониторы">
           </div>
         </div>
         <div class="card_accessories_header_General_desc-k">
@@ -1778,7 +1778,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/AOC C24G2AE 24.webp" alt="монитор">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/monitor/AOC C24G2AE 24.webp" alt="монитор">
             </a>
           </div>
 
@@ -1793,12 +1793,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1812,7 +1812,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/Acer Nitro RG241YPbiipx 23.8.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/Acer Nitro RG241YPbiipx 23.8.webp" alt="монитор">
             </a>
           </div>
 
@@ -1827,12 +1827,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"   src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1846,7 +1846,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/AOC C27G2U 27.webp" alt="монитор">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/monitor/AOC C27G2U 27.webp" alt="монитор">
             </a>
           </div>
 
@@ -1861,12 +1861,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1880,7 +1880,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/Acer Nitro VG272UVbmiipx 27.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/Acer Nitro VG272UVbmiipx 27.webp" alt="монитор">
             </a>
           </div>
 
@@ -1895,12 +1895,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1914,7 +1914,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/ASUS TUF Gaming VG27AQL1A 27.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/ASUS TUF Gaming VG27AQL1A 27.webp" alt="монитор">
             </a>
           </div>
 
@@ -1929,12 +1929,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1948,7 +1948,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/DELL AW2720HFA Alienware 27.webp" alt="монитор">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/monitor/DELL AW2720HFA Alienware 27.webp" alt="монитор">
             </a>
           </div>
 
@@ -1963,12 +1963,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -1982,7 +1982,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/AOC CU34G2X 34.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/AOC CU34G2X 34.webp" alt="монитор">
             </a>
           </div>
 
@@ -1997,12 +1997,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2016,7 +2016,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/BenQ Zowie XL2546K 24.5.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/BenQ Zowie XL2546K 24.5.webp" alt="монитор">
             </a>
           </div>
 
@@ -2031,12 +2031,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2050,7 +2050,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/Acer Predator X34GS 34.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/Acer Predator X34GS 34.webp" alt="монитор">
             </a>
           </div>
 
@@ -2065,12 +2065,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2084,7 +2084,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/Samsung Odyssey C27G75TQSI 26.9.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/Samsung Odyssey C27G75TQSI 26.9.webp" alt="монитор">
             </a>
           </div>
 
@@ -2099,12 +2099,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"   src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2118,7 +2118,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/ASUS ROG Strix XG43VQ 43.4.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/ASUS ROG Strix XG43VQ 43.4.webp" alt="монитор">
             </a>
           </div>
 
@@ -2133,12 +2133,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"   src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2152,7 +2152,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/monitor/Samsung C49G95TSSI 48.9.webp" alt="монитор">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/monitor/Samsung C49G95TSSI 48.9.webp" alt="монитор">
             </a>
           </div>
 
@@ -2167,12 +2167,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2222,7 +2222,7 @@ include('header.php');
 
         <div class="card_accessories_header_General_photo_f_zz" id="armchairs_photo">
           <div class="card_accessories_header_General_photo-f">
-            <img src="img/catalog_accessories/card_accessories/armchairs.webp" alt="Коврики">
+            <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs.webp" alt="Коврики">
           </div>
           <div class="card_accessories_header_General_desc-f" id="armchairs_desc">
             <h5>Игровые кресла от известных брендов</h5>
@@ -2238,7 +2238,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/Cooler Master Caliber R1.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/Cooler Master Caliber R1.webp" alt="кресло">
             </a>
           </div>
 
@@ -2253,12 +2253,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2272,7 +2272,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/Master Caliber R2.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/Master Caliber R2.webp" alt="кресло">
             </a>
           </div>
 
@@ -2287,12 +2287,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2306,7 +2306,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Sg.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/WARP Sg.webp" alt="кресло">
             </a>
           </div>
 
@@ -2321,12 +2321,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img loading="lazy"   src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2340,7 +2340,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Ze.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/WARP Ze.webp" alt="кресло">
             </a>
           </div>
 
@@ -2355,12 +2355,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2374,7 +2374,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Formula.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/DXRacer Formula.webp" alt="кресло">
             </a>
           </div>
 
@@ -2389,12 +2389,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2408,7 +2408,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/WARP Z.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/WARP Z.webp" alt="кресло">
             </a>
           </div>
 
@@ -2423,12 +2423,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2442,7 +2442,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Racing.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/DXRacer Racing.webp" alt="кресло">
             </a>
           </div>
 
@@ -2457,12 +2457,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2476,7 +2476,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/armchairs/DXRacer Iron.webp" alt="кресло">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/armchairs/DXRacer Iron.webp" alt="кресло">
             </a>
           </div>
 
@@ -2491,12 +2491,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2547,7 +2547,7 @@ include('header.php');
 
         <div class="card_accessories_header_General_photo_k_zz">
           <div class="card_accessories_header_General_photo-k">
-            <img src="img/catalog_accessories/card_accessories/microphones.webp" alt="Мониторы">
+            <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones.webp" alt="Мониторы">
           </div>
         </div>
         <div class="card_accessories_header_General_desc-k">
@@ -2563,7 +2563,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/HyperX SoloCast.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/HyperX SoloCast.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2578,12 +2578,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2597,7 +2597,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/Razer Seiren X.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/Razer Seiren X.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2612,12 +2612,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2631,7 +2631,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2646,12 +2646,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2665,7 +2665,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/Razer Seiren Elite.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/Razer Seiren Elite.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2680,12 +2680,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2699,7 +2699,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast S.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/HyperX QuadCast S.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2714,12 +2714,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2733,7 +2733,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/microphones/ASUS ROG Strix Magnus.webp" alt="Микрофон">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/microphones/ASUS ROG Strix Magnus.webp" alt="Микрофон">
             </a>
           </div>
 
@@ -2748,12 +2748,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2810,7 +2810,7 @@ include('header.php');
             <h6>Выбери свой инструмент для игр или работы</h6>
           </div>
           <div class="card_accessories_header_General_photo-f">
-            <img src="img/catalog_accessories/card_accessories/webcams.webp" alt="Коврики">
+            <img  loading="lazy"  src="img/catalog_accessories/card_accessories/webcams.webp" alt="Коврики">
           </div>
         </div>
 
@@ -2822,7 +2822,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/webcams/Razer Kiyo.webp" alt="вэб-камера">
+              <img loading="lazy"   src="img/catalog_accessories/card_accessories/webcams/Razer Kiyo.webp" alt="вэб-камера">
             </a>
           </div>
 
@@ -2837,12 +2837,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img loading="lazy"   src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2856,7 +2856,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/webcams/Logitech C922 Pro Stream.webp" alt="вэб-камера">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/webcams/Logitech C922 Pro Stream.webp" alt="вэб-камера">
             </a>
           </div>
 
@@ -2871,12 +2871,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2890,7 +2890,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/webcams/Logitech BRIO.webp" alt="вэб-камера">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/webcams/Logitech BRIO.webp" alt="вэб-камера">
             </a>
           </div>
 
@@ -2905,12 +2905,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2924,7 +2924,7 @@ include('header.php');
 
           <div class="ph_acсsess">
             <a href="#">
-              <img src="img/catalog_accessories/card_accessories/webcams/Logitech StreamCam White.webp" alt="вэб-камера">
+              <img  loading="lazy"  src="img/catalog_accessories/card_accessories/webcams/Logitech StreamCam White.webp" alt="вэб-камера">
             </a>
           </div>
 
@@ -2939,12 +2939,12 @@ include('header.php');
             <div class="but_desc_acсsess">
 
               <div class="Add_Bask_but" id="but_desc_acсsess-id-bottom">
-                <img src="img/catalog_accessories/card_accessories/basket.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket.webp">
                 <button>Добавить</button>
               </div>
 
               <div class="del_desc_acсsess">
-                <img src="img/catalog_accessories/card_accessories/basket-not.webp">
+                <img  loading="lazy"  src="img/catalog_accessories/card_accessories/basket-not.webp">
                 <button>Удалить</button>
               </div>
 
@@ -2996,7 +2996,7 @@ include('header.php');
     <div class="form_input" id="form-input-modal">
       <div class="form_input_box">
         <button class="btn_close-form-input-modal" id="close-form-input-modal">
-          <img src="img/Modal_Windows/call_request_form/close.svg">
+          <img  loading="lazy"  src="img/Modal_Windows/call_request_form/close.svg">
         </button>
         <h2>Получить консультацию</h2>
 
@@ -3006,7 +3006,7 @@ include('header.php');
               <input class="in_com" type="text" id="name" name="name" required placeholder="Имя*">
             </div>
             <div class="form_win_content">
-              <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*">
+              <input class="in_com" type="number" id="phone" name="phone" required placeholder="Телефон*" style=" -moz-appearance: textfield;">
             </div>
             <div class="form_win_content">
               <input class="in_com" type="email" id="email" name="email" required placeholder="Email">

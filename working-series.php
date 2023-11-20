@@ -14,6 +14,7 @@ include('header.php');
         </div>
       </div>
       <div class="video_cover_gaming">
+      <p>тут будет видео превью</p>
         <video width="100%" height="auto" preload="auto" autoplay="autoplay" loop="loop" muted="muted">
           <source src="video/gaming_pc/gaming_video.mp4" type="video/mp4">
         </video>

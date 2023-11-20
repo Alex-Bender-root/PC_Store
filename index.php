@@ -71,7 +71,7 @@ include("header.php");
         <div class="razmetka3_1">
           <div class="gaming_pc">
             <a href="game-series.php">
-              <div class="pc_1"><img src="img/main_page/gaming_series_main.webp" alt="PC"></div>
+              <div class="pc_1"><img loading="lazy" src="img/main_page/gaming_series_main.webp" alt="PC"></div>
               <div class="pc_2">
                 <h5>ИГРОВАЯ СЕРИЯ</h5>
                 <p>Игровые компьютеры, с акцентом на производительность для лучшего FPS. Большой диапазон цен на широкий модельный ряд – от комплектаций без неона и подсветки -до кастомных корпусов в единичном экземпляре</p>
@@ -80,7 +80,7 @@ include("header.php");
           </div>
           <div class="workstations_vse">
             <a href="working-series.php">
-              <div class="stations_1"><img src="img/main_page/working_series_main.webp" alt="PC"></div>
+              <div class="stations_1"><img loading="lazy" src="img/main_page/working_series_main.webp" alt="PC"></div>
               <div class="stations_2">
                 <h5>РАБОЧИЕ СТАНЦИИ</h5>
                 <p>Все рабочие станции готовы стать надежным инструментом для реализации любых Ваших идей! Проектируйте 3D модели, транслируйте или монтируйте видео, обрабатывайте фото, занимайтесь графическим дизайном</p>
@@ -89,7 +89,7 @@ include("header.php");
           </div>
           <div class="accessories">
             <a href="accessories-series.php">
-              <div class="additionally_1"><img src="img/main_page/accessories_series_main.webp" alt="PC"></div>
+              <div class="additionally_1"><img loading="lazy" src="img/main_page/accessories_series_main.webp" alt="PC"></div>
               <div class="additionally_2">
                 <h5>АКСЕССУАРЫ</h5>
                 <p>Получайте полное наслаждение от использования комьютера не дожидаясь покупки аксессуаров. Полный комплект оборудования от лидеров рынка для мгновенного запуска устройства сразу же после его покупки</p>
@@ -128,7 +128,7 @@ include("header.php");
                 </button>
               </div>
               <div class="needs_desc_img">
-                <img src="img/main_page/par_needs/game.webp" alt="game">
+                <img  src="img/main_page/par_needs/game.webp" alt="game">
               </div>
             </div>
 
@@ -140,7 +140,7 @@ include("header.php");
                 </button>
               </div>
               <div class="needs_desc_img">
-                <img src="img/main_page/par_needs/Graphics.webp" alt="Graphics">
+                <img  src="img/main_page/par_needs/Graphics.webp" alt="Graphics">
               </div>
             </div>
 
@@ -152,7 +152,7 @@ include("header.php");
                 </button>
               </div>
               <div class="needs_desc_img">
-                <img src="img/main_page/par_needs/prog.webp" alt="programs">
+                <img  src="img/main_page/par_needs/prog.webp" alt="programs">
               </div>
             </div>
 
@@ -164,7 +164,7 @@ include("header.php");
                 </button>
               </div>
               <div class="needs_desc_img">
-                <img src="img/main_page/par_needs/cpu.webp" alt="processors">
+                <img  src="img/main_page/par_needs/cpu.webp" alt="processors">
               </div>
             </div>
 
@@ -191,7 +191,7 @@ include("header.php");
               <div class="ba_2"></div>
               <div class="ba_3"></div>
               <div class="ba_4"></div>
-              <div class="base_1"><img src="img/game_series/base.webp" alt="PC"></div>
+              <div class="base_1"><img loading="lazy" src="img/game_series/base.webp" alt="PC"></div>
               <h6>BASE</h6>
               <p>Современные компьютеры начального уровня на базе процессоров Intel Core / AMD и видеокарт NVIDIA GeForce. Сочетание высокой производительности и оптимальной цены. Ничего лишнего.</p>
             </a>
@@ -202,7 +202,7 @@ include("header.php");
               <div class="rar_2"></div>
               <div class="rar_3"></div>
               <div class="rar_4"></div>
-              <div class="rare_1"><img src="img/game_series/rare.webp" alt="PC"></div>
+              <div class="rare_1"><img loading="lazy" src="img/game_series/rare.webp" alt="PC"></div>
               <h6>RARE</h6>
               <p>Мощные игровые компьютеры для максимальных настроек графики в играх, на базе процессоров Intel Core и видеокарт NVIDIA GeForce RTX. Идеальны для киберспортсменов и геймеров, которым важен плавный геймплей с большим количеством FPS на ультра настройках графики. Выбор победителей.</p>
             </a>
@@ -213,7 +213,7 @@ include("header.php");
               <div class="ind_2"></div>
               <div class="ind_3"></div>
               <div class="ind_4"></div>
-              <div class="individual_1"><img src="img/game_series/individual.webp" alt="PC"></div>
+              <div class="individual_1"><img loading="lazy" src="img/game_series/individual.webp" alt="PC"></div>
               <h6>INDIVIDUAL</h6>
               <p>Для тех, кто ценит исключительность, необыкновенное дизайнерское решение в совокупности с высокими технологиями, результатом которого является по-настоящему уникальный компьютер. Мы не позволим ни одной мелочи лишить вас удовольствия от пользования уникальным компьютером.</p>
             </a>
@@ -225,12 +225,12 @@ include("header.php");
           </div>
           <div class="razm4_cont_graphics">
             <div class="cont_graph_gtx">
-              <img src="img/main_page/rtx_4080.webp" alt="RTX™ 4080">
+              <img loading="lazy" src="img/main_page/rtx_4080.webp" alt="RTX™ 4080">
               <h6>Nvidia GeForce RTX™ 4080</h6>
               <p>Поддержка трассировки лучей и DLSS 3.0, обеспечивает ультрасовременные визуальные эффекты и повышенную производительность</p>
             </div>
             <div class="cont_graph_gtx">
-              <img src="img/main_page/rtx_4090.webp" alt="RTX™ 4090">
+              <img loading="lazy" src="img/main_page/rtx_4090.webp" alt="RTX™ 4090">
               <h6>Nvidia GeForce RTX™ 4090</h6>
               <p>Потоковые мультипроцессоры NVIDIA Ada Lovelace и NVIDIA IO для сверхбыстрой скорости ввода/вывода данных</p>
             </div>
@@ -247,7 +247,7 @@ include("header.php");
           <div class="razmetka4_fps_content">
 
             <div class="Games_collection">
-              <img src="img/main_page/Games_collection.png" alt="fps">
+              <img loading="lazy" src="img/main_page/Games_collection.png" alt="fps">
             </div>
 
             <div class="fps_content">
@@ -304,7 +304,7 @@ include("header.php");
               <div class="cre_2"></div>
               <div class="cre_3"></div>
               <div class="cre_4"></div>
-              <div class="Creative_1"><img src="img/Workstations_series/creative.webp" alt="PC"></div>
+              <div class="Creative_1"><img loading="lazy" src="img/Workstations_series/creative.webp" alt="PC"></div>
               <h6>Creative</h6>
               <p>Компьютеры серии Creative на базе видеокарты NVIDIA GeForce RTX. Прекрасно подходят для творческих людей, которые создают и редактируют контент малой и средней сложности. Технологии NVIDIA такие, как трассировки лучей и ИИ-алгоритмов увеличат производительность.</p>
             </a>
@@ -315,7 +315,7 @@ include("header.php");
               <div class="wor_2"></div>
               <div class="wor_3"></div>
               <div class="wor_4"></div>
-              <div class="workstations_5_1"><img src="img/Workstations_series/workstation.webp" alt="PC"></div>
+              <div class="workstations_5_1"><img loading="lazy" src="img/Workstations_series/workstation.webp" alt="PC"></div>
               <h6>Workstations</h6>
               <p>Компьютеры для профессионалов на базе видеокарты Quadro RTX. Мощная рабочая станция для визуальных вычислений, работы с графикой и проектирования. Оптимизируй рабочие процессы и подготавливай их для задач завтрашнего дня.</p>
             </a>
@@ -326,7 +326,7 @@ include("header.php");
               <div class="unb_2"></div>
               <div class="unb_3"></div>
               <div class="unb_4"></div>
-              <div class="Unbounded_1"><img src="img/Workstations_series/Unbounded.webp" alt="PC"></div>
+              <div class="Unbounded_1"><img loading="lazy" src="img/Workstations_series/Unbounded.webp" alt="PC"></div>
               <h6>Unbounded</h6>
               <p>Самая мощная серия компьютеров для работы на базе видеокарты RTX. ПК этой серии созданы решать самые ресурсоемкие задачи по сложному моделированию, проектированию и производству контента высочайшего качества.</p>
             </a>
@@ -340,7 +340,7 @@ include("header.php");
 
             <div class="cont_proc">
               <div class="cont_proc_i">
-                <img src="img/main_page/proc1.webp" alt="RTX™ 4080">
+                <img loading="lazy" src="img/main_page/proc1.webp" alt="RTX™ 4080">
               </div>
               <div class="cont_proc_desc">
                 <h5>Процессоры Intel</h5>
@@ -353,7 +353,7 @@ include("header.php");
 
             <div class="cont_proc">
               <div class="cont_proc_i">
-                <img src="img/main_page/proc2.webp" alt="RTX™ 4090">
+                <img loading="lazy"  src="img/main_page/proc2.webp" alt="RTX™ 4090">
               </div>
               <div class="cont_proc_desc">
                 <h5>Процессоры AMD</h5>
@@ -377,7 +377,7 @@ include("header.php");
           <div class="content_driver">
 
             <div class="cont_driver_im">
-              <img src="img/main_page/driver_rtx.webp" alt="Driver">
+              <img loading="lazy"   src="img/main_page/driver_rtx.webp" alt="Driver">
             </div>
 
             <div class="cont_driver_desc">
@@ -401,8 +401,8 @@ include("header.php");
       </div>
 
       <div class="razmetka6">
-        <video width="100%" height="auto" preload="auto" autoplay="autoplay" loop="loop" muted="muted">
-          <source src="video/accessories/accesvideo.mp4" type="video/mp4">
+        <video loading="lazy" width="100%" height="auto" preload="auto" autoplay="autoplay" loop="loop" muted="muted">
+          <source loading="lazy" src="video/accessories/accesvideo.mp4" type="video/mp4" >
         </video>
       </div>
 
@@ -418,7 +418,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="mouse_picture"><img src="img/catalog_accessories/mouse.webp" alt="mouse"></div>
+              <div class="mouse_picture"><img loading="lazy"  src="img/catalog_accessories/mouse.webp" alt="mouse"></div>
               <p>Игровые мыши</p>
             </a>
           </div>
@@ -428,7 +428,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="keyboards_picture"><img src="img/catalog_accessories/keyboards.webp" alt="keyboard"></div>
+              <div class="keyboards_picture"><img loading="lazy"  src="img/catalog_accessories/keyboards.webp" alt="keyboard"></div>
               <p>Клавиатуры</p>
             </a>
           </div>
@@ -438,7 +438,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="headphones_picture"><img src="img/catalog_accessories/headphones.webp" alt="headphones"></div>
+              <div class="headphones_picture"><img loading="lazy"  src="img/catalog_accessories/headphones.webp" alt="headphones"></div>
               <p>Наушники</p>
             </a>
           </div>
@@ -448,7 +448,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="rugs_picture"><img src="img/catalog_accessories/rugs.webp" alt="rugs"></div>
+              <div class="rugs_picture"><img loading="lazy"  src="img/catalog_accessories/rugs.webp" alt="rugs"></div>
               <p>Коврики</p>
             </a>
           </div>
@@ -458,7 +458,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="monitors_picture"><img src="img/catalog_accessories/monitors.webp" alt="monitors"></div>
+              <div class="monitors_picture"><img loading="lazy"  src="img/catalog_accessories/monitors.webp" alt="monitors"></div>
               <p>Мониторы</p>
             </a>
           </div>
@@ -468,7 +468,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="armchairs_picture"><img src="img/catalog_accessories/armchairs.webp" alt="armchairs"></div>
+              <div class="armchairs_picture"><img loading="lazy"  src="img/catalog_accessories/armchairs.webp" alt="armchairs"></div>
               <p>Кресла</p>
             </a>
           </div>
@@ -478,7 +478,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="microphones_picture"><img src="img/catalog_accessories/microphones.webp" alt="microphones"></div>
+              <div class="microphones_picture"><img loading="lazy"   src="img/catalog_accessories/microphones.webp" alt="microphones"></div>
               <p>Микрофоны</p>
             </a>
           </div>
@@ -488,7 +488,7 @@ include("header.php");
               <div class="arrow_2"></div>
               <div class="arrow_3"></div>
               <div class="arrow_4"></div>
-              <div class="camera_picture"><img src="img/catalog_accessories/camera.webp" alt="camera"></div>
+              <div class="camera_picture"><img loading="lazy"  src="img/catalog_accessories/camera.webp" alt="camera"></div>
               <p>Камеры</p>
             </a>
           </div>
